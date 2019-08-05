@@ -81,7 +81,8 @@ En el cuadro están los 7 períodos de una arquetípica crisis de deuda de larga
 ![](https://i.imgur.com/DjeGRoF.jpg)
 
 
-1) Parte temprana del ciclo
+**1 Parte temprana del ciclo**
 La deuda no crece más rápido que los ingresos aunque su crecimiento sea fuerte, la deuda financia actividades que producen aumento de ingreso, el dinero va para expandir negocios y hacerlos más productivo. Esto sostiene el crecimiento de beneficios.
 
-2) La burbuja
+**2 La burbuja**
+En su primera parte las deudas crecen más rápido que los ingresos, produciendo fuertes retornos y crecimientos de activos. Este proceso se retroalimenta porque el aumento en los ingresos, valores de los activos y el patrimonio neto conlleva una mejora para pedir prestado por parte de los prestatarios.
