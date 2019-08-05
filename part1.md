@@ -86,3 +86,5 @@ La deuda no crece más rápido que los ingresos aunque su crecimiento sea fuerte
 
 **2 La burbuja**
 En su primera parte las deudas crecen más rápido que los ingresos, produciendo fuertes retornos y crecimientos de activos. Este proceso se retroalimenta porque el aumento en los ingresos, valores de los activos y el patrimonio neto conlleva una mejora para pedir prestado por parte de los prestatarios.
+Esto no es sostenible porque porque el peso de la deuda aumenta más que los ingresos requeridos para pagarla, los prestatarios se sienten ricos y gastan más de lo que ganan y compran bienes a precios altos. Esta parte de alza del ciclo típicamente dura décadas. La principal razón por la cual se sostiene es porque los BC bajan progresivamente la tasa de interés, que sube el valor de los bienes y la riqueza de la gente. Esto mantiene el aumento del peso de la deuda y reduce el costo del pago mensual de los ítems comprados a crédito.
+
