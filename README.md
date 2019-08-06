@@ -98,3 +98,9 @@ Dada esta dinámica aumentan mucho las discordancias entre activos y pasivos en 
 
 Acá vemos que pasa con los precios de las acciones
 ![Imgur](https://i.imgur.com/hXOydTa.jpg)
+En los mercados cuando hay un consenso, este toma un precio debido a que los humanos tienden a moverse en multitudes y el peso de la experiencia reciente es mayor al apropiado.
+
+**Condiciones durante la burbuja**
+Dalio encontró que en los casos estudiados el total de deuda sobre el ingreso equivale cerca al 300% del PBI, él marca estos indicadores claves para una típica burbuja:
+
+1. Crecimiento de la deuda más rápido que los ingresos (40%, rango de 14 a 79%)
