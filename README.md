@@ -89,8 +89,12 @@ En su primera parte las deudas crecen más rápido que los ingresos, produciendo
 Esto no es sostenible porque porque el peso de la deuda aumenta más que los ingresos requeridos para pagarla, los prestatarios se sienten ricos y gastan más de lo que ganan y compran bienes a precios altos. Esta parte de alza del ciclo típicamente dura décadas. La principal razón por la cual se sostiene es porque los BC bajan progresivamente la tasa de interés, que sube el valor de los bienes y la riqueza de la gente. Esto mantiene el aumento del peso de la deuda y reduce el costo del pago mensual de los ítems comprados a crédito.
 
 **El comienzo de la burbuja: el mercado alcista**
+
 El mercado alcista está inicialmente justificado porque la tasa de interés más baja hacen atractivos los activos de inversión como acciones y bienes raíces. Esto lleva al crecimiento económico y de las ganancias corporativas, de ahí el aumento de la capacidad de tomar más deuda. El boom también anima a nuevos compradores que no quieren perderse la alza y eso aumenta aún más la burbuja.
 
 Cuando nuevos especuladores y prestadores entran al mercado caen los estándares de crédito. Ellos hacen muchísimo dinero fácil rápido desde instituciones de préstamos no reguladas, lo cual refuerza la burbuja. 
 
-Dada esta dinámica aumentan mucho las discordancias entre activos y pasivos en la forma de:**a-** endeudándose a corto plazo para prestar a largo **b-** tomando pasivos líquidos para investir en activos ilíquidos **cc-** invertir en deudas riesgosas u otros activos riesgosos con dinero prestado de otros **d-** tomar prestado een una moneda y prestar en otra, todo para ganar una diferencia percibida.
+Dada esta dinámica aumentan mucho las discordancias entre activos y pasivos en la forma de:**a-** endeudándose a corto plazo para prestar a largo **b-** tomando pasivos líquidos para investir en activos ilíquidos **cc-** invertir en deudas riesgosas u otros activos riesgosos con dinero prestado de otros **d-** tomar prestado en una moneda y prestar en otra, todo para ganar una diferencia percibida.
+
+Acá vemos que pasa con los precios de las acciones
+![Imgur](https://i.imgur.com/hXOydTa.jpg)
