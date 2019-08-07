@@ -97,10 +97,38 @@ Cuando nuevos especuladores y prestadores entran al mercado caen los estándares
 Dada esta dinámica aumentan mucho las discordancias entre activos y pasivos en la forma de:**a-** endeudándose a corto plazo para prestar a largo **b-** tomando pasivos líquidos para investir en activos ilíquidos **cc-** invertir en deudas riesgosas u otros activos riesgosos con dinero prestado de otros **d-** tomar prestado en una moneda y prestar en otra, todo para ganar una diferencia percibida.
 
 Acá vemos que pasa con los precios de las acciones
+
 ![Imgur](https://i.imgur.com/hXOydTa.jpg)
+
 En los mercados cuando hay un consenso, este toma un precio debido a que los humanos tienden a moverse en multitudes y el peso de la experiencia reciente es mayor al apropiado.
 
 **Condiciones durante la burbuja**
 Dalio encontró que en los casos estudiados el total de deuda sobre el ingreso equivale cerca al 300% del PBI, él marca estos indicadores claves para una típica burbuja:
 
-1. Crecimiento de la deuda más rápido que los ingresos (40%, rango de 14 a 79%)
+1. Crecimiento de la deuda más rápido que los ingresos (Cambio durante la burbuja 40%, rango de 14 a 79%)
+
+  Deuda creciendo rápidamente (Cambio durante la burbuja 32%, rango 17% a 45%)
+
+  Ingresos crecimiento rápido pero más lento que la deuda (Cambio durante la burbuja  13%, rango  8% a 20%)
+
+2. Mercado de valores extienden el rally (Cambio durante la burbuja  48%, rango 22% a 68%)
+
+3. La curva de rendimientos se aplana (SR - LR) (Cambio durante la burbuja  1.4%, rango 0.9% a 1.7%)
+
+**El rol de la política monetaria**
+En muchos casos la política monetaria ayuda a inflar la burbuja más que a constreñirla. Pasa cuando la inflación y el crecimiento son buenos y el retorno de las inversiones es aún mejor, en este marco los bancos centrales son renuentes a ajustar el dinero.
+![Imgur](https://i.imgur.com/mKPTj61.jpg)
+
+**Detectando burbujas**
+Si bien hay diferencias particulares en muchos casos las burbujas son similares y son el resultado de relaciones lógicas de causa y efecto que spueden ser estudiadas y entendidas.
+Los características misibles que más definen a las burbujas son:
+1. Los precios están altos en relación a medidas tradicionales
+2. Precios 
+3. Hay un sentimiento muy optimista extendido
+4. Las compras son finanaciadas por un gran apalancamiento
+5. Los compradores han hecho excepcionalmente compras hacia delante para especular o protegerse contra futuras ganancias de precio
+6. Nuevos compradores entran al mercado
+7. Política monetaria estimulaiva amenaza en inflar aún más la burbuja.
+
+![Imgur](https://i.imgur.com/DeTLtSE.jpg)
+
