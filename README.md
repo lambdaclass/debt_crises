@@ -81,10 +81,12 @@ En el cuadro están los 7 períodos de una arquetípica crisis de deuda de larga
 ![](https://i.imgur.com/DjeGRoF.jpg)
 
 
-**1 Parte temprana del ciclo**
+#### 1 Parte temprana del ciclo
+
 La deuda no crece más rápido que los ingresos aunque su crecimiento sea fuerte, la deuda financia actividades que producen aumento de ingreso, el dinero va para expandir negocios y hacerlos más productivo. Esto sostiene el crecimiento de beneficios.
 
-**2 La burbuja**
+#### 2 La burbuja
+
 En su primera parte las deudas crecen más rápido que los ingresos, produciendo fuertes retornos y crecimientos de activos. Este proceso se retroalimenta porque el aumento en los ingresos, valores de los activos y el patrimonio neto conlleva una mejora para pedir prestado por parte de los prestatarios.
 Esto no es sostenible porque porque el peso de la deuda aumenta más que los ingresos requeridos para pagarla, los prestatarios se sienten ricos y gastan más de lo que ganan y compran bienes a precios altos. Esta parte de alza del ciclo típicamente dura décadas. La principal razón por la cual se sostiene es porque los BC bajan progresivamente la tasa de interés, que sube el valor de los bienes y la riqueza de la gente. Esto mantiene el aumento del peso de la deuda y reduce el costo del pago mensual de los ítems comprados a crédito.
 
@@ -103,6 +105,7 @@ Acá vemos que pasa con los precios de las acciones
 En los mercados cuando hay un consenso, este toma un precio debido a que los humanos tienden a moverse en multitudes y el peso de la experiencia reciente es mayor al apropiado.
 
 **Condiciones durante la burbuja**
+
 Dalio encontró que en los casos estudiados el total de deuda sobre el ingreso equivale cerca al 300% del PBI, él marca estos indicadores claves para una típica burbuja:
 
 1. Crecimiento de la deuda más rápido que los ingresos (Cambio durante la burbuja 40%, rango de 14 a 79%)
@@ -116,10 +119,12 @@ Dalio encontró que en los casos estudiados el total de deuda sobre el ingreso e
 3. La curva de rendimientos se aplana (SR - LR) (Cambio durante la burbuja  1.4%, rango 0.9% a 1.7%)
 
 **El rol de la política monetaria**
+
 En muchos casos la política monetaria ayuda a inflar la burbuja más que a constreñirla. Pasa cuando la inflación y el crecimiento son buenos y el retorno de las inversiones es aún mejor, en este marco los bancos centrales son renuentes a ajustar el dinero.
 ![Imgur](https://i.imgur.com/mKPTj61.jpg)
 
 **Detectando burbujas**
+
 Si bien hay diferencias particulares en muchos casos las burbujas son similares y son el resultado de relaciones lógicas de causa y efecto que spueden ser estudiadas y entendidas.
 Los características misibles que más definen a las burbujas son:
 1. Los precios están altos en relación a medidas tradicionales
@@ -136,3 +141,11 @@ Los características misibles que más definen a las burbujas son:
 Cuando los precios fueron llevados por muchas compras apalancadas y el mercado está completamente vasto, apalancado y sobrepreciado se está maduro para un cambio de sentido. Esto refleja un principio general: Se genera el pico superior del mercado cuando las cosas están tan bien que no pueden estar mejor  (y todos creen que seguirán mejorando).
 Mayormente ocurren cuando el banco central empieza a ajustar y sube la tasa de interés. Algunas veces es por cuestiones internas de la burbuja porque el crecimiento y la inflación están subiendo mientras empieza a sentirse las limitaciones de la capacidad. En otros es externo, como que prestatarios externos retiren préstamos por cuestiones exógenas y eso lleve a una restricción de liquidez. Un endurecimiento de la política monetaria en la moneda donde las deudas están nominadas puede ser causa suficiente para el retiro de capitales extranjeros.
 No importa cual sea el motivo de la contracción del servicio de deuda, esta daña los precios de los activos lo cual tiene un "efecto de riqueza" negativo ya que los prestamistas se empiezan a preocupar porque pueden que no puedan tener su dinero de vuelta. Los prestatarios están presionados ya que una parte cada vez mayor de sus nuevos prestamos van a pagar servicios de deuda. Esto es el resultado clásico de gente comprando activos de inversión a precios altos con apalancamiento, basados en supuestos demasiados optimistas de futuros flujos de fondos.
+En las fases tempranas de la cima la suba de las tasas de corto plazo estrecha o elimina la diferencia con tasas de largo plazo disminuyendo el incentivo a prestar. La gente tiene el incentivo de moverse a dinero justo antes que la burbuja estalle.
+
+![Imgur](https://i.imgur.com/Cm7eMQY.jpg)
+
+En momentos tempranos de la cima alguna parte del sistema crediticio sufre pero otros se mantienen robustos así que no está claro que la economía está debilitándose. Entonces mientras el banco centrla siga subiendo las tasas de interés y ajustando el crédito, las semillas de la recisión están siendo sembradas. Con esto tenemos que la economía está operando con tasas altas, con una demanda presionando contra la capacidad de producir. El desempleo está en niveles cíclicamente bajos y la inflación está subiendo.
+El incremento de las tasas de corto plazo hace que tener dinero sea más atractivo y debilita a los activos riesgosos y baja el préstamo. También encarece la compra a crédito, bajando la demanda. Las tasas de CP tienen un pico pocos meses antes del tope en el mercado bursátil.
+Cuánto más apalancamiento exista y más altos estén los precios menos restricción será necesaria para pichar la burbuja y mayor será el estallido que lo sigue. Para esto es más importante entender la sensibilidad de cada sector en particular a la restricción y como las pérdidas caerán en cascada. Hay que mirar a cada sector importante de la economía y a cada gran actor de esos sectores.
+En la inmediata posburbuja el efecto de riqueza en los valore de los activos tiene mayor impacto en las tasas de crecimiento económico más que la política moneteria. Cuando caen los valores de las acciones y los beneficios aún no declinaron esto suele ser tomado erróneamente como una oportunidad de compra. Pero la reversión se auto-refuerza, como la riqueza cae y los ingreso caen luego, empeora la solvencia, que constriñe el prestado, lo que daña el gasto y baja el nivel de inversión mientras tanto hace menos atractivo tomar prestado para comprar activos financieros. Esto empeora las bases de los activos, llevando a la gente a venderlos y bajando los precios. Esto tiene unimpacto acelerado hacia abajo en el precio de los activos, ingreso y riqueza.
