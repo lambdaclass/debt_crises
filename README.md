@@ -81,11 +81,11 @@ En el cuadro están los 7 períodos de una arquetípica crisis de deuda de larga
 ![](https://i.imgur.com/DjeGRoF.jpg)
 
 
-#### 1 Parte temprana del ciclo
+### 1 Parte temprana del ciclo
 
 La deuda no crece más rápido que los ingresos aunque su crecimiento sea fuerte, la deuda financia actividades que producen aumento de ingreso, el dinero va para expandir negocios y hacerlos más productivo. Esto sostiene el crecimiento de beneficios.
 
-#### 2 La burbuja
+### 2 La burbuja
 
 En su primera parte las deudas crecen más rápido que los ingresos, produciendo fuertes retornos y crecimientos de activos. Este proceso se retroalimenta porque el aumento en los ingresos, valores de los activos y el patrimonio neto conlleva una mejora para pedir prestado por parte de los prestatarios.
 Esto no es sostenible porque porque el peso de la deuda aumenta más que los ingresos requeridos para pagarla, los prestatarios se sienten ricos y gastan más de lo que ganan y compran bienes a precios altos. Esta parte de alza del ciclo típicamente dura décadas. La principal razón por la cual se sostiene es porque los BC bajan progresivamente la tasa de interés, que sube el valor de los bienes y la riqueza de la gente. Esto mantiene el aumento del peso de la deuda y reduce el costo del pago mensual de los ítems comprados a crédito.
@@ -137,7 +137,7 @@ Los características misibles que más definen a las burbujas son:
 
 ![Imgur](https://i.imgur.com/DeTLtSE.jpg)
 
-#### 3 La cima
+### 3 La cima
 Cuando los precios fueron llevados por muchas compras apalancadas y el mercado está completamente vasto, apalancado y sobrepreciado se está maduro para un cambio de sentido. Esto refleja un principio general: Se genera el pico superior del mercado cuando las cosas están tan bien que no pueden estar mejor  (y todos creen que seguirán mejorando).
 Mayormente ocurren cuando el banco central empieza a ajustar y sube la tasa de interés. Algunas veces es por cuestiones internas de la burbuja porque el crecimiento y la inflación están subiendo mientras empieza a sentirse las limitaciones de la capacidad. En otros es externo, como que prestatarios externos retiren préstamos por cuestiones exógenas y eso lleve a una restricción de liquidez. Un endurecimiento de la política monetaria en la moneda donde las deudas están nominadas puede ser causa suficiente para el retiro de capitales extranjeros.
 No importa cual sea el motivo de la contracción del servicio de deuda, esta daña los precios de los activos lo cual tiene un "efecto de riqueza" negativo ya que los prestamistas se empiezan a preocupar porque pueden que no puedan tener su dinero de vuelta. Los prestatarios están presionados ya que una parte cada vez mayor de sus nuevos prestamos van a pagar servicios de deuda. Esto es el resultado clásico de gente comprando activos de inversión a precios altos con apalancamiento, basados en supuestos demasiados optimistas de futuros flujos de fondos.
@@ -151,12 +151,15 @@ El incremento de las tasas de corto plazo hace que tener dinero sea más atracti
 Cuánto más apalancamiento exista y más altos estén los precios menos restricción será necesaria para pichar la burbuja y mayor será el estallido que lo sigue. Para esto es más importante entender la sensibilidad de cada sector en particular a la restricción y como las pérdidas caerán en cascada. Hay que mirar a cada sector importante de la economía y a cada gran actor de esos sectores.
 En la inmediata posburbuja el efecto de riqueza en los valores de los activos tiene mayor impacto en las tasas de crecimiento económico más que la política moneteria. Cuando caen los valores de las acciones y los beneficios aún no declinaron esto suele ser tomado erróneamente como una oportunidad de compra. Pero la reversión se auto-refuerza, como la riqueza cae y los ingreso caen luego, empeora la solvencia, que constriñe el prestado, lo que daña el gasto y baja el nivel de inversión mientras tanto hace menos atractivo tomar prestado para comprar activos financieros. Esto empeora las bases de los activos, llevando a la gente a venderlos y bajando los precios. Esto tiene unimpacto acelerado hacia abajo en el precio de los activos, ingreso y riqueza.
 
-#### 4 La depresión
+### 4 La depresión
 ![Imgur](https://i.imgur.com/HsSV6WS.jpg)
 
 En recesiones normales el desequilibrio entre la cantidad de dinero y su necesidad para servicios de deuda se puede rectificar bajando la tasa de interés para **a-** producir un efecto positivo de riqueza **b-** estimular la actividad económica **c-** aliviar las cargas del servicio de deuda. Pero esto no puede suceder en las depresiones porque las tasas de interés ya están muy cercanas a 0.
 Esta es precisamente la fórmula para una depresión, acá vemos el caso estadounidense para las de 1930-32 y 2008-9 (esta última bien manejada ya que bajaron rápidamente la tasa de interés, aprendiendo de los errores de los 30)
-
 ![Imgur](https://i.imgur.com/HvEO4An.jpg)
 
-Cuando comienza la depre
+(ver de nuevo el gráfico de la tasa de interés nominal)
+
+Cuando comienza la depresión los incumplimientos de deudas y las restructuraciones afecta como una avalancha a varios jugadores, especialmente a los prestamistas apalancados (por ej. los bancos). Esta desconfianza mutua entre prestadores y depositantes lleva a corridas contra instituciones financieras que típicamente no pueden dar ese dinero. En esta parte los defaults de deuda y la austeridad (fuerzas de la deflación) dominan y no son lo suficientemente balanceados con las estimulantes e inflacionarias fuerzas de la emisión monetaria para cubrir deudas.
+Con inversores que no quieren prestar y deudores luchando por efectivo para pagar deudas, la liquidez es una preocupación mayúscula.
+La depresión puede venir de problemas de solvencia (quiebra porque la entidad no tiene el suficiente capital para operar según regulaciones contables) o de flujos de fondos (no tiene el suficiente efectivo para responder a sus necesidades por una corrida de sus propios prestamistas), usualmente suceden ambos en esta fase.
