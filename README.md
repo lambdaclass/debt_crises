@@ -137,7 +137,7 @@ Los características misibles que más definen a las burbujas son:
 
 ![Imgur](https://i.imgur.com/DeTLtSE.jpg)
 
-#### La cima
+#### 3 La cima
 Cuando los precios fueron llevados por muchas compras apalancadas y el mercado está completamente vasto, apalancado y sobrepreciado se está maduro para un cambio de sentido. Esto refleja un principio general: Se genera el pico superior del mercado cuando las cosas están tan bien que no pueden estar mejor  (y todos creen que seguirán mejorando).
 Mayormente ocurren cuando el banco central empieza a ajustar y sube la tasa de interés. Algunas veces es por cuestiones internas de la burbuja porque el crecimiento y la inflación están subiendo mientras empieza a sentirse las limitaciones de la capacidad. En otros es externo, como que prestatarios externos retiren préstamos por cuestiones exógenas y eso lleve a una restricción de liquidez. Un endurecimiento de la política monetaria en la moneda donde las deudas están nominadas puede ser causa suficiente para el retiro de capitales extranjeros.
 No importa cual sea el motivo de la contracción del servicio de deuda, esta daña los precios de los activos lo cual tiene un "efecto de riqueza" negativo ya que los prestamistas se empiezan a preocupar porque pueden que no puedan tener su dinero de vuelta. Los prestatarios están presionados ya que una parte cada vez mayor de sus nuevos prestamos van a pagar servicios de deuda. Esto es el resultado clásico de gente comprando activos de inversión a precios altos con apalancamiento, basados en supuestos demasiados optimistas de futuros flujos de fondos.
@@ -146,6 +146,17 @@ En las fases tempranas de la cima la suba de las tasas de corto plazo estrecha o
 ![Imgur](https://i.imgur.com/Cm7eMQY.jpg)
 
 En momentos tempranos de la cima alguna parte del sistema crediticio sufre pero otros se mantienen robustos así que no está claro que la economía está debilitándose. Entonces mientras el banco centrla siga subiendo las tasas de interés y ajustando el crédito, las semillas de la recisión están siendo sembradas. Con esto tenemos que la economía está operando con tasas altas, con una demanda presionando contra la capacidad de producir. El desempleo está en niveles cíclicamente bajos y la inflación está subiendo.
-El incremento de las tasas de corto plazo hace que tener dinero sea más atractivo y debilita a los activos riesgosos y baja el préstamo. También encarece la compra a crédito, bajando la demanda. Las tasas de CP tienen un pico pocos meses antes del tope en el mercado bursátil.
+El incremento de las tasas de corto plazo hace que tener dinero sea más atractivo y debilita a los activos riesgosos y baja el préstamo. También encarece la compra a crédito, bajando la demanda. Las tasas de CP tienen un pico pocos meses antes del tope en el mercado bursátil. (Ver gráfico del precio de las acciones)
+
 Cuánto más apalancamiento exista y más altos estén los precios menos restricción será necesaria para pichar la burbuja y mayor será el estallido que lo sigue. Para esto es más importante entender la sensibilidad de cada sector en particular a la restricción y como las pérdidas caerán en cascada. Hay que mirar a cada sector importante de la economía y a cada gran actor de esos sectores.
-En la inmediata posburbuja el efecto de riqueza en los valore de los activos tiene mayor impacto en las tasas de crecimiento económico más que la política moneteria. Cuando caen los valores de las acciones y los beneficios aún no declinaron esto suele ser tomado erróneamente como una oportunidad de compra. Pero la reversión se auto-refuerza, como la riqueza cae y los ingreso caen luego, empeora la solvencia, que constriñe el prestado, lo que daña el gasto y baja el nivel de inversión mientras tanto hace menos atractivo tomar prestado para comprar activos financieros. Esto empeora las bases de los activos, llevando a la gente a venderlos y bajando los precios. Esto tiene unimpacto acelerado hacia abajo en el precio de los activos, ingreso y riqueza.
+En la inmediata posburbuja el efecto de riqueza en los valores de los activos tiene mayor impacto en las tasas de crecimiento económico más que la política moneteria. Cuando caen los valores de las acciones y los beneficios aún no declinaron esto suele ser tomado erróneamente como una oportunidad de compra. Pero la reversión se auto-refuerza, como la riqueza cae y los ingreso caen luego, empeora la solvencia, que constriñe el prestado, lo que daña el gasto y baja el nivel de inversión mientras tanto hace menos atractivo tomar prestado para comprar activos financieros. Esto empeora las bases de los activos, llevando a la gente a venderlos y bajando los precios. Esto tiene unimpacto acelerado hacia abajo en el precio de los activos, ingreso y riqueza.
+
+#### 4 La depresión
+![Imgur](https://i.imgur.com/HsSV6WS.jpg)
+
+En recesiones normales el desequilibrio entre la cantidad de dinero y su necesidad para servicios de deuda se puede rectificar bajando la tasa de interés para **a-** producir un efecto positivo de riqueza **b-** estimular la actividad económica **c-** aliviar las cargas del servicio de deuda. Pero esto no puede suceder en las depresiones porque las tasas de interés ya están muy cercanas a 0.
+Esta es precisamente la fórmula para una depresión, acá vemos el caso estadounidense para las de 1930-32 y 2008-9 (esta última bien manejada ya que bajaron rápidamente la tasa de interés, aprendiendo de los errores de los 30)
+
+![Imgur](https://i.imgur.com/HvEO4An.jpg)
+
+Cuando comienza la depre
