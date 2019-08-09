@@ -185,4 +185,13 @@ Ambas movidas son grandes errores.
 **"Imprimir dinero" para parar el sangrado y estimular la economía**
 
 Las corridas suelen pasar en instituciones de crédito, especialmente las que no están protegidas por garantías de gobierno.
-Esto pone al Banco Central y el Gobierno en posición de decidir cuales depositantes/prestadores hay que proteger de pérdidas y cuales están permitidos que las afronten. Además de cuales instituciones son importantes para el sistema y deben ser salvadas (
+Esto pone al Banco Central y el Gobierno en posición de decidir cuales depositantes/prestadores hay que proteger de pérdidas y cuales están permitidos que las afronten. Además de cuales instituciones son importantes para el sistema y deben ser salvadas (maximizando la seguridad del sistema económico-financiero y minizando costos para el Gobierno/contribuyentes. El dinero que se necesita puede salir del Gobierno por el Presupuesto o el Banco Central vía emisión.
+Luego es necesario aliviar la crisis crediticia y estimular la economía. Cuando están bien manejadas, estos cambios en políticas de "imprimir dinero", comprar activos y proveer garantías son las que mueven el ciclo deudas de la depresión/desapalancamiento feo a la expansión/desapalancamiento bello. El siguiente gráfico muestra la emisión monetaria en EEUU en los 30 y después de 2008.
+
+![Imgur](https://i.imgur.com/d7h6cFx.jpg)
+
+Si bien la política monetaria estimulativa es una parte crítica del desapalancamiento no es suficiente. Los PM tienen que tomar ventaja y mantener a las entidades sistémicamente importantes en funcionamiento. El actuar de inmediato debe ser para:
+* **Reducir el pánico y garantizar pasivos**
+Los Gobiernos pueden incrementar garantías en depósitos y emisión de deuda, el BC inyectar dinero y ocasionalmente forzar a que la liquidez se mantenga en el sistema bancario imponiendo congelamiento de depósitos (indeseable porque aumenta el pánico y nosotros lo sabemos mejor que nadie).
+* **Proveer liquidez**
+Cuando el crédito privado se contrae y la liquidez es restringida
