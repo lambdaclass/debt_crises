@@ -178,4 +178,11 @@ Típicamente los PM mezclan mal al inicio los mecanismos de austeridad, emisión
 
 **Austeridad**
 
-En la depresión los PM intentan la austeridad porque es la obviedad, 
+En la depresión los PM intentan la austeridad porque es la obviedad, es natural que quienes se metieron en problemas y metieron a otros carguen los costos. El problema es que una gran austeridad no lleva a un balance entre deuda e ingreso.
+Como la economía se contrae la recaudación del gobierno también, y al mismo tiempo aumentan los reclamos hacia el gobierno. Como pasa esto los déficits se incrementan y para ser fiscalmente responsables se aumentan los impuestos.
+Ambas movidas son grandes errores.
+
+**"Imprimir dinero" para parar el sangrado y estimular la economía**
+
+Las corridas suelen pasar en instituciones de crédito, especialmente las que no están protegidas por garantías de gobierno.
+Esto pone al Banco Central y el Gobierno en posición de decidir cuales depositantes/prestadores hay que proteger de pérdidas y cuales están permitidos que las afronten. Además de cuales instituciones son importantes para el sistema y deben ser salvadas (
