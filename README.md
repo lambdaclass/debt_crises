@@ -199,4 +199,9 @@ Si bien la política monetaria estimulativa es una parte crítica del desapalanc
 **Defaults de deudas/restructuraciones**
 
 Para finalizar, el proceso de limpiar las malas deudas existentes es crítico para el futuro flujo de dinero y crédito, para volver a la prosperidad.  El desafío para los PM es el permitir que el proceso se resuelva solo de manera ordenada. Los casos mejor manejados son donde los PM **a-** reconocen pronto la magnitud de los probelmas crediticios. **b-** No salven a todas las instituciones, dejando algunas quebrar para que las reestructuren (a conciencia de los efectos sobre la solvencia de otros). **c-** crear o restaurar canales de créditos para que prestatarios solventes puedan tomar prestado **d-** asegurar un crecimiento y una inflación aceptable mientras las malas deudas se solucionan.
-Generalmente no accionan rápido, cuán pronto y agresivamente respondan los PM es determinante para la severidad y la fuerza de la depresión.
+Generalmente no accionan rápido, cuán pronto y agresivamente respondan los PM es determinante para la severidad y la duración de la depresión.
+Para Dalio hay líneas claras donde los acreedores reciben protección:
+* **Pequeños depositantes tienen preferencia y viven una pérdida mínima o ninguna (en casi todos los casos)** A veces esto está explícitamente definido en el esquema de seguros de depósitos. La cobertura se expande en crisis para asegurarle liquidez a los bancos. En el 30% de los casos los depositantes tuvieron pérdidas aunque a menudo eran en moneda extranjera que se convertía a un tipo de cambio por debajo del valor de mercado.
+* **En la mayoría de los casos cuando fallan las instituciones el capital, las deudas subordinadas y los grandes depositantes absorben las pérdidas independientemente si la institución era importante** 
+* **Algunas veces los PM priorizan los acreedores locales por sobre los extranjeros, especialmente cuando sus préstamos son para actores del sector privado y están más abajo en la estructura del capital** Al mismo tiempo también los gobiernos priorizan el pago de préstamos a instituciones multinacionales como el FMI y el Banco de Pagos Internacionales.
+
