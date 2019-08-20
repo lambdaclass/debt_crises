@@ -205,4 +205,7 @@ Para Dalio hay líneas claras donde los acreedores reciben protección:
 * **En la mayoría de los casos cuando fallan las instituciones el capital, las deudas subordinadas y los grandes depositantes absorben las pérdidas independientemente si la institución era importante** 
 * **Algunas veces los PM priorizan los acreedores locales por sobre los extranjeros, especialmente cuando sus préstamos son para actores del sector privado y están más abajo en la estructura del capital** Al mismo tiempo también los gobiernos priorizan el pago de préstamos a instituciones multinacionales como el FMI y el Banco de Pagos Internacionales.
 
-Generalmente los procesos de tratar con prestamistas 
+Generalmente los procesos de tratar con prestamistas quebrados es acompañado por un torrente de reformas regulatorias, desde cómo operan los bancos al mercado laboral. Sus activos se suelen administrar por una entidad separada (AMC) en el 40% de los casos; continúan en la hoja de balance de la institución de préstamo a administrar (60% de los casos).
+
+Así cómo
+
