@@ -205,7 +205,13 @@ Para Dalio hay líneas claras donde los acreedores reciben protección:
 * **En la mayoría de los casos cuando fallan las instituciones el capital, las deudas subordinadas y los grandes depositantes absorben las pérdidas independientemente si la institución era importante** 
 * **Algunas veces los PM priorizan los acreedores locales por sobre los extranjeros, especialmente cuando sus préstamos son para actores del sector privado y están más abajo en la estructura del capital** Al mismo tiempo también los gobiernos priorizan el pago de préstamos a instituciones multinacionales como el FMI y el Banco de Pagos Internacionales.
 
-Generalmente los procesos de tratar con prestamistas quebrados es acompañado por un torrente de reformas regulatorias, desde cómo operan los bancos al mercado laboral. Sus activos se suelen administrar por una entidad separada (AMC) en el 40% de los casos; continúan en la hoja de balance de la institución de préstamo a administrar (60% de los casos).
+Generalmente los procesos de tratar con prestamistas quebrados es acompañado por un torrente de reformas regulatorias, desde cómo operan los bancos al mercado laboral. Sus activos se suelen administrar por una entidad separada (AMC, asset-management company) en el 40% de los casos ó continúan en la hoja de balance de la institución de préstamo a administrar (60% de los casos). Para disponer de los préstamos incobrables se suele restructurar (extendiendo plazos); intercambio de deuda por capital, incautaciones de activos; venta directa de los préstamos o activos a terceras partes; titularizaciones.
 
-Así cómo
+Así como importa que los prestamistas sean sistémicamente importantes, también lo es para los prestatarios:
+* Para ellos los PM buscan asegurar que el negocio se mantenga intacto como entidades, generalmente restructurando la deuda para que los servicios de deuda sean manejables. Esto se hace por la vía de intercambio de deuda por capital, reducción de deuda, bajando las tasas de interés o terminando el préstamo. 
+* Lo no sistémicamente importantes suelen ser dejados a restructurar sus préstamos con privados o se los deja caer en la bancarrota y son liquidados
+* Los Gobiernos centrales muchas veces accionan para reducir el peso de la deuda en el sector doméstico. 
+En el siguiente cuadro se muestra cuánto se utilizaron estas medidas en los 48 casos estudiados
+![Imgur](https://i.imgur.com/sZOspH9.jpg)
 
+Así cómo 
