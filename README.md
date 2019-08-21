@@ -214,4 +214,10 @@ Así como importa que los prestamistas sean sistémicamente importantes, tambié
 En el siguiente cuadro se muestra cuánto se utilizaron estas medidas en los 48 casos estudiados
 ![Imgur](https://i.imgur.com/sZOspH9.jpg)
 
-Así cómo 
+**Redistribuir la riqueza**
+
+Las brechas de riqueza aumentan en las burbujas y se vuelven particularmente mortificantes para los menos privilegiados en los tiempos duros. Como regla general, si los ricos comparten un presupuesto con los pobres y hay una caída económica entonces habrá conflicto político y económico. Ahí es cuando los populismos tienden a emerger, ya sean de izquierda o de derecha.
+
+![Imgur](https://i.imgur.com/KWXQTyC.jpg)
+
+En algunos casos se vuelve polítia
