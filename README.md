@@ -225,3 +225,4 @@ Típicamente el aumento de impuestos se da en Ingresos, propiedad y consumo, los
 
 ### 5 El "desapalacamiento hermoso"
 
+Este se produce cuando los cuatro niveladores se mueven de manera equilibrada y así se reducen shocks intolerables y se produce crecimiento positivo con disminución de cargas de deuda y una inflación aceptable. Más específicamente es cuando hay suficiente estimulación (emisión, monetización de deuda y devaluación) para contrarrestrar las fuerzas deflacionarias del desapalancamiento (austeridad, cesación de pagos) y llevar a la tasa de crecimiento nominal por sobre la de interés.
