@@ -220,4 +220,8 @@ Las brechas de riqueza aumentan en las burbujas y se vuelven particularmente mor
 
 ![Imgur](https://i.imgur.com/KWXQTyC.jpg)
 
-En algunos casos se vuelve políticamente atractivo el aumentarle los impuestos a los ricos
+En algunos casos se vuelve políticamente atractivo el aumentarle los impuestos a los ricos ya que hicieron muchísimo dinero en el boom y son percibidos como causantes del problema por su avaricia. Esto puede llevar que saquen su dinero para dejarlo en lugares que brinden protección, vaciando así la economía de una gran base impositiva ya que son grandes pagadores de impuestos.
+Típicamente el aumento de impuestos se da en Ingresos, propiedad y consumo, los más efectivos para la recaudación fiscal. Aún así las transferencias casi nunca ocurren en montos que contribuyan al desapalancamiento (salvo cuando hay revoluciones y se nacionalizan muchísimas propiedades).
+
+### 5 El "desapalacamiento hermoso"
+
