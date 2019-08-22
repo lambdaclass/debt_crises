@@ -220,4 +220,4 @@ Las brechas de riqueza aumentan en las burbujas y se vuelven particularmente mor
 
 ![Imgur](https://i.imgur.com/KWXQTyC.jpg)
 
-En algunos casos se vuelve polítia
+En algunos casos se vuelve políticamente atractivo el aumentarle los impuestos a los ricos
