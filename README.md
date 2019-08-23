@@ -238,3 +238,15 @@ Al final, los PM siempre emiten dinero. Esto es porque la austeridad causa más 
 La tabla de abajo resume la cantidad típica de emisión monetaria y devaluación necesaria para crear el salto de una depresión hacia un "desapalancamiento hermoso".
 
 ![Imgur](https://imgur.com/jt69N7S.jpg)
+
+HACER CUADRO ESPAÑOL
+
+### 6 Empujando la cuerda
+Tardíamente en el ciclo de deuda de largo plazo, los bancos centrales algunas veces luchan por convertir sus políticas estimulativas en gasto aumentado porque disminuyen los efectos de reducir las tasas de interés y las compras de activos de deuda por parte de los bancos centrales. En esos tiempo la economía entra en un período de bajo crecimiento y bajos retornos de activos, y los bancos centrales tienen que utilzar otras formas de estimulación monetaria donde el crédito y el dinero va hacia apoyar gastadores. Uno de los más grandes riesgos es que debido a muchísima emisión y una muy severa devaluación pueda ocurrir un "feo desapalancamiento inflacionario".
+Para esto Dalio piensa tres políticas monetarias
+
+#### Política monetaria 1
+**La política monetaria basada en la tasa de interés es la más efectiva porque tiene el más amplio impacto en la economía** Cuando los BC reducen la tasa de interés, ellos estimulan la economía a través de a) produciendo un efecto de riqueza positivo (porque las tasas bajas de interés aumentan el valor de la mayoría de las inversiones); b) facilitando la compra de bienes a crédito (porque cae la paga mensual), aumentando la demanda; c) reduciendo las cargas del servicio de deuda (lo cual mejora el flujo de dinero y el gasto). Esto es el primer acercamiento a una crisis de deuda, pero cuando la tasa de interés llega cerca al 0% y no funciona efectivamente, entonces los bancos centrales deben recurrir al segundo tipo
+
+#### Política monetaria 2
+**"Expansión cuantitativa" (EC) como se llama ahora (imprimir dinero y comprar activos financieros, típicamente de deuda) es la Política monetaria 2**
