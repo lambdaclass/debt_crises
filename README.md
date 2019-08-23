@@ -229,3 +229,12 @@ Este se produce cuando los cuatro niveladores se mueven de manera equilibrada y 
 La mejor manera de anular la depresión deflacionaria es que el banco central provea liquidez y apoyo crediticio. Esto lo puede hacer prestando contra un mayor espectro de garantías y también comprando (monetizando) deuda de baja calidad o largo plazo. ¿Qué quiere decir con eso? Básicamente que el ingreso necesita crecer más rápido que la deuda.
 La emisión monetaria/monetización de deuda y las garantías del gobierno son inevitables en las depresiones, durante las cuales la baja de la tasa de interés no funciona. Todos los desapalancamientos estudiados eventualmente llevaron a la grandes creaciones de dinero, déficits fiscales y devaluaciones (contra el oro, mercancías y acciones). En el cuadro debajo ilustra la arquetípica vía de la emisión monetaria en desapalancamientos deflacionarios. 
 ![](https://imgur.com/QJAHciu.jpg)
+
+En este cuadro se muestra el promedio del tipo de cambio real contra los socios comerciales.
+
+![Imgur](https://imgur.com/J3eKsJY.jpg)
+
+Al final, los PM siempre emiten dinero. Esto es porque la austeridad causa más daño que beneficios, las grandes restructuraciones borran mucha riqueza muy rápido, y las transferencias de riqueza de los que tienen hacia los que menos no suceden en suficiente envergadura sin revoluciones. A su vez la emisión no es inflacionaria si el tamaño y el caracter del dinero creado contrarrestra el tamaño y el caracterde la contracción del crédito, es simplemente anular la deflación. La historia nos mostró que quienes lo hicieron rápido y bien (EEUU en 2008-09) llegaron a mejores resultados que aquellos quienes lo hicieron tarde (EEUU en 1930-33).
+La tabla de abajo resume la cantidad típica de emisión monetaria y devaluación necesaria para crear el salto de una depresión hacia un "desapalancamiento hermoso".
+
+![Imgur](https://imgur.com/jt69N7S.jpg)
