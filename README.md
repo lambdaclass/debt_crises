@@ -277,4 +277,13 @@ Ya teniendo el modelo de las depresiones deflacionarias el autor nos invita a le
 
 ## Depresiones inflacionarias y crisis monetarias
 
-Ahora miraremos las crisis de deuda inflacionarias arquetípicas, que Dalio ha creado en base a los 27 peores ciclos inflacionarios. Cómo recordatorio nos po
+Ahora miraremos las crisis de deuda inflacionarias arquetípicas, que Dalio ha creado en base a los 27 peores ciclos inflacionarios. Cómo recordatorio Dalio los resalta puntos neurálgicos de su marco conceptual/teórico:
+* La moneda y la deuda tienen dos propósitos: Ser medios de cambio y de aterosamiento
+* La deuda de una persona es el activo de uno y el pasivo de otra
+* Tenedores de activos de deudas esperan convertirlos en dinero y luego en bienes y servicios, entonces son conscientes de la dimensión de sus pérdidas de poder de compra (inflación) relativa a la compensación (tasa de interés) por seguir teniéndolo.
+* Los Bancos centrales solo producen el tipo de dinero y crédito que ellos controlan.
+* A través de un vínculo simbiótico, en el tiempo los prestatarios y prestamistas privados y los Bancos centrales crean más y más montones de activos y pasivos de deuda.
+* Cuánto más grande la pila, más grande es el desafío de los bancos centrales por balancear las presiones hacia una depresión deflacionaria y hacia una inflacionaria.
+* Los PM pueden usualmente balancear estas fuerzas opuestas en las crisis de deuda porue tienen mucho poder para redistribuir la carga.
+* Típicamente los bancos centrales alivian las crisis de deuda emitiendo muchísimo dinero en lo cual está expresado la deuda, lo cual estimula el gasto en activos de inversión y la economía, y abarata el valor de la moneda (si todo el resto está igual).
+* Si una moneda cae en relación a otra en un grado que es mayor a la tasa de interés de la moneda, el tenedor de deuda de la moneda debilitada perderá dinero. Si los inversores esperan que la debilidad continúe sin ser compensada con tasa de interés más altas, se desarrolla una peligrosa dinámica monetaria.
