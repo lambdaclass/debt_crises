@@ -256,4 +256,9 @@ En el tiempo la EC para estimular la economía disminuye su efectividad porque l
 Las bajas tasas de interés junto a una baja recompensa en activos riesgosos es una amenaza estructural para la política monetaria. Con PM1 y PM2 al límite, el Banco central tiene poquísima capacidad para proveer estímulos a través de esos dos canales. Esto típicamente pasa en los años tardíos de un ciclo de deuda de largo plazo, que puede llevar a "empujando una cuerda". Cuando esto sucede los PM tienen que ver más allá de la EC hacia nuevas formas de política monetaria y fiscal caracterizadas por la Política Monetaria 3.
 
 #### Política monetaria 3
-**La Política monetaria 3 cloca dinero más directamente en los bolsillos de los consumidores en vez de los inversores/ahorristas y los incentiva a gastarlos**
+**La Política monetaria 3 cloca dinero más directamente en los bolsillos de los consumidores en vez de los inversores/ahorristas y los incentiva a gastarlos** Porque los pudientes tienen menos incentivos en gastar el dinero y crédito incremental que reciben que la gente menos pudiente, cuando la brecha de riqueza es grande y la economía es débil, dirigir las oportunidades de gasto hacia los menos pudientes es más productivo.
+La lógica y la historia nos muestra que hay un continuum de acciones para estimular el gasto que tiene grados variables de control en ellos. Para simplificar Dalio los organizó con referencias específicas.
+* **Un aumento en el gasto fiscal financiado con deuda** A veces se lo acompaña con EC que compra la mayoría de la nueva emisión (Japón en los 30, EEUU en la IIGM, EEUU y RU en los 2000).
+* **Aumento en el fasco fical financiado con deuda, donde el Tesoro no está enganchado a la deuda**, porque:
+- El Banco Central puede imprimir dinero para cubrir pagos de deuda (Alemania en los 30)
+- El Banco Central puede prestarle a entidades 
