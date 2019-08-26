@@ -241,7 +241,7 @@ La tabla de abajo resume la cantidad típica de emisión monetaria y devaluació
 
 HACER CUADRO ESPAÑOL
 
-### 6 Empujando la cuerda
+### 6 Empujando una cuerda
 Tardíamente en el ciclo de deuda de largo plazo, los bancos centrales algunas veces luchan por convertir sus políticas estimulativas en gasto aumentado porque disminuyen los efectos de reducir las tasas de interés y las compras de activos de deuda por parte de los bancos centrales. En esos tiempo la economía entra en un período de bajo crecimiento y bajos retornos de activos, y los bancos centrales tienen que utilzar otras formas de estimulación monetaria donde el crédito y el dinero va hacia apoyar gastadores. Uno de los más grandes riesgos es que debido a muchísima emisión y una muy severa devaluación pueda ocurrir un "feo desapalancamiento inflacionario".
 Para esto Dalio piensa tres políticas monetarias
 
@@ -250,4 +250,10 @@ Para esto Dalio piensa tres políticas monetarias
 
 #### Política monetaria 2
 **"Expansión cuantitativa" (EC) como se llama ahora (imprimir dinero y comprar activos financieros, típicamente de deuda) es la Política monetaria 2** Funciona afectando la conducta de inversores/ahorristas como opuestas a los deudores/gastadores, porque es conducida por la compra de activos financieros (típicamente de deuda) que impacta más en los inversores/ahorrista.
-Cuando el BC compra un bono, le da efectivo a los inversores/ahorristas, que típicamente utilizan para comprar otro activo financiero que creen más atractivo. Lo que hacen con el dinero y crédito hace todo la diferencia del mundo.
+Cuando el BC compra un bono, le da efectivo a los inversores/ahorristas, que típicamente utilizan para comprar otro activo financiero que creen más atractivo. Lo que hacen con el dinero y crédito hace todo la diferencia del mundo. Cuando invierten en activos que financian el gasto, eso estimula la economía. Cuando no, hacen falta grandes ganancias de mercado para que goteé algún dinero hacia el gasto. Es decir, la EC beneficia más a los inversores/ahorristas más que a la gente que no, ampliando la brecha de riqueza.
+La PM2 es generalmente menos efectiva que los cambios en la tasa de interés, pero si lo es cuando el riesgo y el premio de la liquidez son grandes, porque de esta forma caen. 
+En el tiempo la EC para estimular la economía disminuye su efectividad porque los premios al riesgo van hacia la baja y los precios de los activos aumentan hacia niveles más allá dónde son difíciles de empujarlos más.  **En otras palabras, con precios altos y bajas expectativas de retornos, la compensación por tomar riesgo se convierte muy pequeña para llevar a los inversores a subir los precios, lo cual lleva a una reducción de los rendimientos futuros.** 
+Las bajas tasas de interés junto a una baja recompensa en activos riesgosos es una amenaza estructural para la política monetaria. Con PM1 y PM2 al límite, el Banco central tiene poquísima capacidad para proveer estímulos a través de esos dos canales. Esto típicamente pasa en los años tardíos de un ciclo de deuda de largo plazo, que puede llevar a "empujando una cuerda". Cuando esto sucede los PM tienen que ver más allá de la EC hacia nuevas formas de política monetaria y fiscal caracterizadas por la Política Monetaria 3.
+
+#### Política monetaria 3
+**La Política monetaria 3 cloca dinero más directamente en los bolsillos de los consumidores en vez de los inversores/ahorristas y los incentiva a gastarlos**
