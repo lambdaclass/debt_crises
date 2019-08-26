@@ -261,4 +261,14 @@ La lógica y la historia nos muestra que hay un continuum de acciones para estim
 * **Un aumento en el gasto fiscal financiado con deuda** A veces se lo acompaña con EC que compra la mayoría de la nueva emisión (Japón en los 30, EEUU en la IIGM, EEUU y RU en los 2000).
 * **Aumento en el fasco fical financiado con deuda, donde el Tesoro no está enganchado a la deuda**, porque:
 - El Banco Central puede imprimir dinero para cubrir pagos de deuda (Alemania en los 30)
-- El Banco Central puede prestarle a entidades 
+- El Banco Central puede prestarle a entidades distintas del Gobierno que lo usarán para proyectos de estímulo (préstamos a bancos de desarrollo en China en 2008).
+* **No molestar en emitir deuda, y en cambio darle dinero recientemente emitido directamente al Gobierno para que lo gaste** Casos pasados incluyen la emisión de moneda fiduciaria (China imperial, Guerra de independencia norteamericana, la Guerra de Secesión, Alemania en los 30, RU durante la IGM) o envileciendo la moneda fuerte (Antigua Roma, China imperial, Inglaterra en el siglo XVI).
+* **Emitiendo dinero y haciendo transferencias directas a hogares ("Dinero helicóptero")** Este toma varias formas: Puede darse el mismo monto a todos o ayudar a un grupo sobre otros, puede darse una vez o a través del tiempo (cómo un ingreso básico universal) o dirigirse a gastos/inversiones socialmente deseados cómo educación, jubilaciones, etc. Todas estas variantes pueden ser acompañadas por un incentivo a gastarlas.
+* **Gran reducción de deuda acompañada con una gran emisión monetaria** (el "Año del Jubileo") cómo ocurrió en Antigua Roma, la Gran Depresión e Islandia.
+
+Dalio no opina sobre estos mecanismos pero sí es categórico sobre la necesidad de una coordinación fiscal y monetaria para que sean efectivos. 
+
+### 7 Normalización
+Eventualemtne el sistema vuelve a la normalidad, a través de la recuperación en la actividad económica y la formación de capital tiende a ser lenta. Lleva típicamente 5-10 años (por eso el término "década peridda") a la actividad económica real volver a su anterior pico de nivel. 
+
+Ya teniendo el modelo de las depresiones deflacionarias el autor nos invita a leer las cuentas detalladas de los grandes ciclos de deuda de Estados Unidos en 2007-2011 y 1928-1937.
