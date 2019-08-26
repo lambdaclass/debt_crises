@@ -270,5 +270,9 @@ Dalio no opina sobre estos mecanismos pero sí es categórico sobre la necesidad
 
 ### 7 Normalización
 Eventualemtne el sistema vuelve a la normalidad, a través de la recuperación en la actividad económica y la formación de capital tiende a ser lenta. Lleva típicamente 5-10 años (por eso el término "década peridda") a la actividad económica real volver a su anterior pico de nivel. 
-
+![Imgur](https://imgur.com/zGKXzCm.jpg)
 Ya teniendo el modelo de las depresiones deflacionarias el autor nos invita a leer las cuentas detalladas de los grandes ciclos de deuda de Estados Unidos en 2007-2011 y 1928-1937.
+
+## Depresiones inflacionarias y crisis monetarias
+
+Ahora miraremos las crisis de deuda inflacionarias arquetípicas, que Dalio ha creado en base a los 27 peores ciclos inflacionarios. Cómo recordatorio nos po
