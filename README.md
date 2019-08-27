@@ -308,4 +308,17 @@ Dalio se ocupará primero del arquetípico desapalancamiento inflacionario, basa
 En fases crecientes sanas, los flujos de capitales son resultado de buenos fundamentales (entiendo esta palabra cómo en análisis fundamental). En este punto, los niveles de deuda son bajos y las hojas de balance están sanas. Esto estimula la exportación y el capital extranjero, que con sus inversiones produce buenos retornos y rendimientos que redundan en crecimiento productivo.
 Los flujos de capital son los más importantes de observar porque son los más volátiles. 
 En este momento el sector privado, el Gobierno y los bancos comienzan a prestar porque lógicamente sus ingresos están aumentando rápido. 
-El ciclo autorreforzante positivo aumenta cuando la demanda de dinero mejora. Si la moneda está lo suficientemente barata para ofrecer oportunidades atractivas a inversores extranjeros y/o el país vende más a extranjeros que lo que les compra, la balanza de pagos de un país se vuelve favorable. Esto facilita la labor del Banco central porque los flujos positivos pueden usarse para apreciarl a moneda
+El ciclo autorreforzante positivo aumenta cuando la demanda de dinero mejora. Si la moneda está lo suficientemente barata para ofrecer oportunidades atractivas a inversores extranjeros y/o el país vende más a extranjeros que lo que les compra, la balanza de pagos de un país se vuelve favorable. Esto facilita la labor del Banco central porque los flujos positivos pueden usarse para apreciar la moneda, bajar la tasa de interés y/o incrementar reservas.
+En esos tiempos se suelen acumular reservas, esto estimula la economía porque disminuye la presión alcista sobre la propia moneda y permite mantener una fuerte competitividad exportadora y pone más dinero en la economía. Cómo se necesita crear dinero para comprar divisas, esto aumenta el dinero disponible para comprar activos o prestar.
+
+### 2 La burbuja
+Ella emerge en el medio del ciclo virtuoso de autorreforzamiento de fuertes flujos de capital, buenos retornos de capital y sólidas condiciones económicas. En la burbuja, el precio de la moneda y/o los activos son cada vez más financiados por deuda, haciendo los precios de estas inversiones muy altos para producir retornos adecuados pero continúa el prestado y la compra porque los precios están subiendo, entonces la deuda sube rápidamente en relación a los ingresos.
+
+Durante las burbujas el total de retornos de estos activos parara extranjeros son muy atractivos (los precios de los activos en moneda local más la apreciación cambiaria). Esta situación económica alcista conduce a que más extranjeros traigan y menos domésticos saquen. Cuando el mercado es completamente amplio, apalancado y sobrevaluado, se vuelve maduro para una reversión.
+Podemos distinguir cuando una burbuja se infla por:
+* Los flujos de capitales externos son altos (en promedio 10% del PBI)
+* El Banco Central está acumulando reservas en moneda extranjera
+* La tipo de cambio real sube y comienza a estar sobrevaluado en un 15% (en una base de paridad de poder adquisitivo, PPA. PPP en inglés)
+* Rally de acciones (en promedio un 20% más que los años anteriores al pico)
+
+Todo tipo de entidades 
