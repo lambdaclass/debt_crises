@@ -287,9 +287,25 @@ Ahora miraremos las crisis de deuda inflacionarias arquetípicas, que Dalio ha c
 * Los PM pueden usualmente balancear estas fuerzas opuestas en las crisis de deuda porue tienen mucho poder para redistribuir la carga.
 * Típicamente los bancos centrales alivian las crisis de deuda emitiendo muchísimo dinero en lo cual está expresado la deuda, lo cual estimula el gasto en activos de inversión y la economía, y abarata el valor de la moneda (si todo el resto está igual).
 * Si una moneda cae en relación a otra en un grado que es mayor a la tasa de interés de la moneda, el tenedor de deuda de la moneda debilitada perderá dinero. Si los inversores esperan que la debilidad continúe sin ser compensada con tasa de interés más altas, se desarrolla una peligrosa dinámica monetaria.
+
 La última dinámica, la dinámica de la moneda, es lo que produce las depresiones inflacionarias. Los tenedores de deuda nominada en la moneda que brinda pobres retornos están motivados a vender y tener sus activos en otra moneda o reserva de valor como el oro. Cuando hay una crisi de deuda y debilidad económica es imposible que el BC de un país suba las tasas de interés lo suficiente para compensar la debilidad de la moneda, entonces el dinero deja ese país y esa moneda por países más seguros. Cuando se va tanto dinero que seca la plaza de préstamos, el BC se enfrenta a la disyuntiva de constreñir el mercado crediticio o emitir, que produce muchísimo de ello. Cuando el dinero está saliendo de una moneda, la tasa de interés real necesita subir menos si el tipo de cambio real cae más (y viceversa).
 Las salidas de capital tienden a ocurrir cuando el contexto es inhóspito (ya sea por deuda, económico y/o problemas políticos). Para empeorar las cosas, aquellos que tienen sus actividades en la moneda débil y tomaron préstamos en la moneda fuerte ven sus costos de deuda dispararse. Es por esto **los países con los peores problemas de deuda, mucha de ella nominada en moneda extranjera, y una alta dependencia en el capital extranjero tienen una debilidad monetaria significativa. Esta debilidad es lo que causa inflación cuando hay una depresión.**
 Normalmente esto sigue su curso cuando la moneda y los precios de la deuda caen lo suficiente para hacerlos muy baratos. Generalmente el sacudón termina cuando a) las deudas son defaulteadas y/o se crea suficiente dinero para aliviar el sacudón; b) los requerimientos de servicios de deuda son reducidos de alguna otra manera; c) la moneda se deprecia más que la inflación aumenta, entonces los activos nacionales y lo que exporta se vuelve muy competitivo entonces mejora su balanza de pagos.
 #### ¿Cuáles países/monedas son más vulnerables a desapalancamientos inflacionarios severos o hiperinflaciones?
 Si bien puedne pasar en cualquier país, lo más probable es que se presenten en países que:
-*
+* No tienen una moneda de reserva (entonces carecen de un soporte global para mantener a su moneda/deuda como reserva de valor)
+* Tienen pocas reservas en moneda extranjera (el colchól de protección contra salidas de capitales es pequeño)
+* Presentan un gran e incremental déficit fiscal y de cuenta corriente (causando la necesidad de pedir prestado o emitir dinero para financiar los déficits)
+* Tienen una tasa de interés real negativa, por lo tanto compensaciones inadecuadas a prestamistas para que mantengan la deuda/moneda
+* Presentan una historia de alta inflación y retornos totales negativos en esa moneda (aumentando la falta de confianza en el valor de la moneda/deuda)
+
+Cuánto más grande sea el grado de estas condiciones presentes, más lo será la depresión inflacionaria. Los países con monedas de reserva con pocas deudas en moneda extranjera también pueden sufrirlas si los estímulos para frenar el desapalancamiento deflacionario se exageran en intensidad.
+
+## Las fases del clásico ciclo de deuda inflacionario
+Dalio se ocupará primero del arquetípico desapalancamiento inflacionario, basado en 27 casos donde muchísima de la deuda estaba nominada en moneda extranjera. Después lo comparará con 4 casos específicos de hiperinflación para resaltar sus diferencias.
+
+### 1 La parte temprana del ciclo
+En fases crecientes sanas, los flujos de capitales son resultado de buenos fundamentales (entiendo esta palabra cómo en análisis fundamental). En este punto, los niveles de deuda son bajos y las hojas de balance están sanas. Esto estimula la exportación y el capital extranjero, que con sus inversiones produce buenos retornos y rendimientos que redundan en crecimiento productivo.
+Los flujos de capital son los más importantes de observar porque son los más volátiles. 
+En este momento el sector privado, el Gobierno y los bancos comienzan a prestar porque lógicamente sus ingresos están aumentando rápido. 
+El ciclo autorreforzante positivo aumenta cuando la demanda de dinero mejora. Si la moneda está lo suficientemente barata para ofrecer oportunidades atractivas a inversores extranjeros y/o el país vende más a extranjeros que lo que les compra, la balanza de pagos de un país se vuelve favorable. Esto facilita la labor del Banco central porque los flujos positivos pueden usarse para apreciarl a moneda
