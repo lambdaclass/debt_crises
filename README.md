@@ -334,3 +334,15 @@ Enesta etapa se esfuma el principal atractivo del país, su competitividad, porq
 En la burbuja se amplía la brecha entre el ingreso nacional y sus gastos, necesita una afluencia de capitales cada vez mayor para continuar creciendo, que siguen llegando por la expectativa en un crecimiento alto de forma sostenida. Aquí el país es extremadamente fragil y cualquier evento puede disparar una reversión del ciclo.
 
 ¿Que pasa con el peso de la deuda en relación al PBI, el deterioro de la cuenta corriente, la brehcha del PBI y el tipo de cambio real?
+
+![Imgur](https://imgur.com/cbst8Iu.jpg)
+
+![Imgur](https://imgur.com/aTegdNu.jpg)
+
+![Imgur](https://imgur.com/YZNUAJg.jpg)
+
+![Imgur](https://imgur.com/IKc6K0a.jpg)
+
+En este cuadro Dalio resume las condiciones que llevaron a 27 desapalancamientos inflacionarios, y los divide en mayor o menor nivel de deuda nominada en moneda extranjera y en los más extremos resultados económicos. 
+
+![Imgur](https://imgur.com/5NH8n7P.jpg)
