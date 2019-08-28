@@ -321,4 +321,16 @@ Podemos distinguir cuando una burbuja se infla por:
 * La tipo de cambio real sube y comienza a estar sobrevaluado en un 15% (en una base de paridad de poder adquisitivo, PPA. PPP en inglés)
 * Rally de acciones (en promedio un 20% más que los años anteriores al pico)
 
-Todo tipo de entidades 
+Todo tipo de entidades tienen una base fuerte en la moneda local porque tienen una constante recompensa por ello, un mercado alcista sostenido lleva a que las multinacionales tengan muchas posiciones en esa moneda.
+* La afluencia de capital extranjero financia un boom de consumo
+* Importaciones crecen más rápido que las exportaciones, y empeora la cuenta corriente
+
+Mientras tanto, invertir en el país crea un fuerte crecimiento y aumento de ingresos, esto hace a los prestatarios más solvententes. Los altos precios de los bienes exportables aumentan el ingreso nacional e incentivan las inversiones.
+Enesta etapa se esfuma el principal atractivo del país, su competitividad, porque se produce una apreciación de la moneda. Entonces su crecimiento se financia cada vez más con deuda que con aumentos de productividad, y el país se vuelve altamente dependiente del financiamiento externo.
+* Las cargas de la deuda crecen rápido. La relación deuda - PBI sube a una tasa anual del 10% en tres años.
+* Aumenta la deuda en moneda extranjera (en promedio un 35% de la deuda total y el 45% del PBI)
+* Típicamente el nivel de actividad económica (brecha del PBI) es muy fuerte y el crecimiento está por encima del potencial, que lleva a ajustar la capacidad (cómo se refleja en una brecha del PBI de aproximdamente el 4%)
+
+En la burbuja se amplía la brecha entre el ingreso nacional y sus gastos, necesita una afluencia de capitales cada vez mayor para continuar creciendo, que siguen llegando por la expectativa en un crecimiento alto de forma sostenida. Aquí el país es extremadamente fragil y cualquier evento puede disparar una reversión del ciclo.
+
+¿Que pasa con el peso de la deuda en relación al PBI, el deterioro de la cuenta corriente, la brehcha del PBI y el tipo de cambio real?
