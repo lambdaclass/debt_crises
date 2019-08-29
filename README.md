@@ -356,4 +356,31 @@ En ciclo arquetípico la crisis surge cuando se enlentece el ritmo insostenible 
 * 4- Los ciudadanos o compañías locales *quieren sacar el dinero* de su país/moneda
 
 El debilitamiento en los flujos de capitales es el inicio de una crisis de balanza de pagos. Esto sucede porque la inversión y el consumo que financiaban se reduce, esto vuelve a los prestatarios locales menos solventes y hace más reacios a prestar a los extranjeros. De esta forma el debilitamiento se retroalimenta.
-* 
+
+* El crecimiento del PBI relativo a su potencial disminuye en tanto el ritmo de la afluencia de capitales también lo hace
+* La salida de capital doméstico aumentan un poco
+* Las ganancias por exportaciones caen, ya sea por caída de precios o cantidades vendidas. Típicamente se planchan, dejan de crecer.
+
+![Imgur](https://imgur.com/a1FjSgz.jpg)
+
+![Imgur](https://imgur.com/J0uLkzT.jpg)
+
+En este momento la preocupación aumenta entre quienes tienen activos/moneda local y los PM que intentan defender la moneda. Los que poseen activos/moneda local se preocupan ante una posible restricción en su capacidad de sacar el dinero fuera del país, que los lleva a hacerlo hasta que puedan, empeorando el problema de la balanza de pagos. 
+Entonces los bancos centrales intentan defender sus  monedas por dos vías: a) cubriendo los déficits de la balnza de pagos gastando reservas y/o b) subiendo las tasas. Esto raramente sirve porque genera oportunidades para los vendedores mientras que no mueve la moneda o la tasa de interés a niveles que se necesitan para condiciones económicas sustentables.
+Existe una relación neurálgica entre a) la difederencia de la tasa de interés y b) la relación del actual valor de la moneda y el futuro. El nivel de declinación en el precio de la moneda que se espera depende de cuán debajo esté el precio futuro del valor actual. Una pequeña depreciación esperada de la moneda (5-10%) equivale a una suba de la tasa de interés (5-10%), entonces este camino es intolerable.
+Las devaluaciones graduales programadas presionan sobre la tasa de interés porque el mercado espera futuras depreciaciones (en un contexto la economía ya es débil).
+Ya en este punto del ciclo los controles de capitales son un nivelador que rara vez funcionan y que pueden parecer atractivos para los PM. Estos usualmente fallan porque a) los inversores suelen hallar la manera de saltarlos; b) porque el atrapar gente lleva a que quieran escaparse. No poder sacar el dinero de un país provoca lo mismo que la imposibilidad de sacarlo de un banco: miedo que puede llevar a una corrida.
+Usualmente la etapa de defensa de la moneda es breve (6 meses), con una caída de reservas del 10% o 20% hasta que la defensa se abandona.
+
+![Imgur](https://imgur.com/SDdCHlz.jpg)
+
+![Imgur](https://imgur.com/E97AulT.jpg)
+
+### 4 Depresión (a menudo cuando se deja ir a la moneda)
+Una depreciación de la moneda permite a un país ofrecer recortes de precios al resto del mundo (ayudando a traer más negocios) sin producir deflación doméstica. Entonces, después de defender la moneda de maneras insostenibles (gastando reservas, políticas monetarias contractivas, aseguramente vehementemente que no devaluarán, controles de cambios) los PM dejan de luchar y la dejan ir. Lo que vemos a continuación de eso es lo siguiente:
+* La moneda tiene una depreciación inicial fuerte, en un promedio de un 30% en términos reales.
+* La depreciación no es contrarrestada por tasas de interés ajustadas, entonces las pérdidas por tener esa moneda son significantes (en promedio un 30% en el primer año).
+* Como el declive es muy severo los PM tratan de suavizarlo, llevándolos a continuar gastando reservas (en promedio un 10%)
+![Imgur](https://imgur.com/1EAmxYm.jpg)
+![Imgur](https://imgur.com/2THfNRE.jpg)
+![Imgur](https://imgur.com/eaEZ269.jpg)
