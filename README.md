@@ -346,3 +346,14 @@ En la burbuja se amplía la brecha entre el ingreso nacional y sus gastos, neces
 En este cuadro Dalio resume las condiciones que llevaron a 27 desapalancamientos inflacionarios, y los divide en mayor o menor nivel de deuda nominada en moneda extranjera y en los más extremos resultados económicos. 
 
 ![Imgur](https://imgur.com/5NH8n7P.jpg)
+
+### 3 El pico y la defensa de la moneda
+El pico-reversión/defensa de la moneda ocurre cuando estalla la burbuja (cuando los flujos que produjeron la burbuja y el alto valor de la moneda, activos y alto crecimiento de deuda finalmente se vuelven insostenibles). La espiral de achicamiento de afluencia de capital y posterior deterioro del valor de los activos conduce al país a una **crisis de balanza de pagos y una depresión inflacionaria.**
+En ciclo arquetípico la crisis surge cuando se enlentece el ritmo insostenible del ingreso de capitales pero en muchos casos hay un shock puntual (caída del precio del petróleo en un país exportador de ese bien). Generalmente las causas del pico-reversión caen en un par de categorías:
+* 1- *Cae el ingreso por ventas de bienes y servicios a extranjeros* (la moneda llegó a un punto que hizo caras las exportaciones del país; los países exportadores de commodities pueden sufrir una caída en dichos precios).
+* 2- *Sube el costo de los bienes comprados afuera o el de endeudarse*
+* 3- *Menguan los flujos de capital que ingresa al país* (los inversores extranjeros reducen sus préstamos o inversiones netas en el país). Esto ocurre porque: a) Naturalmente se reduce el ritmo insostenible; b) Algo lleva a grandes preocupacione sobre las condiciones económicas o políticas; c) *Una política monetaria restrictiva en la moneda local y/o en la moneda en la cual están nominadas las deudas*(o en algunos casos la restricción de afuera presiona al capital extranjero a salir del país)
+* 4- Los ciudadanos o compañías locales *quieren sacar el dinero* de su país/moneda
+
+El debilitamiento en los flujos de capitales es el inicio de una crisis de balanza de pagos. Esto sucede porque la inversión y el consumo que financiaban se reduce, esto vuelve a los prestatarios locales menos solventes y hace más reacios a prestar a los extranjeros. De esta forma el debilitamiento se retroalimenta.
+* 
