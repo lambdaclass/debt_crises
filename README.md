@@ -366,10 +366,14 @@ El debilitamiento en los flujos de capitales es el inicio de una crisis de balan
 ![Imgur](https://imgur.com/J0uLkzT.jpg)
 
 En este momento la preocupación aumenta entre quienes tienen activos/moneda local y los PM que intentan defender la moneda. Los que poseen activos/moneda local se preocupan ante una posible restricción en su capacidad de sacar el dinero fuera del país, que los lleva a hacerlo hasta que puedan, empeorando el problema de la balanza de pagos. 
+
 Entonces los bancos centrales intentan defender sus  monedas por dos vías: a) cubriendo los déficits de la balnza de pagos gastando reservas y/o b) subiendo las tasas. Esto raramente sirve porque genera oportunidades para los vendedores mientras que no mueve la moneda o la tasa de interés a niveles que se necesitan para condiciones económicas sustentables.
 Existe una relación neurálgica entre a) la difederencia de la tasa de interés y b) la relación del actual valor de la moneda y el futuro. El nivel de declinación en el precio de la moneda que se espera depende de cuán debajo esté el precio futuro del valor actual. Una pequeña depreciación esperada de la moneda (5-10%) equivale a una suba de la tasa de interés (5-10%), entonces este camino es intolerable.
+
 Las devaluaciones graduales programadas presionan sobre la tasa de interés porque el mercado espera futuras depreciaciones (en un contexto la economía ya es débil).
+
 Ya en este punto del ciclo los controles de capitales son un nivelador que rara vez funcionan y que pueden parecer atractivos para los PM. Estos usualmente fallan porque a) los inversores suelen hallar la manera de saltarlos; b) porque el atrapar gente lleva a que quieran escaparse. No poder sacar el dinero de un país provoca lo mismo que la imposibilidad de sacarlo de un banco: miedo que puede llevar a una corrida.
+
 Usualmente la etapa de defensa de la moneda es breve (6 meses), con una caída de reservas del 10% o 20% hasta que la defensa se abandona.
 
 ![Imgur](https://imgur.com/SDdCHlz.jpg)
@@ -395,3 +399,32 @@ Cuando no hay más capital disponible se fuerza la detención del gasto, incluso
 
 ![Imgur](https://imgur.com/hNtv9dC.jpg)
 ![Imgur](https://imgur.com/9w8ZdzE.jpg)
+
+Usualmente la retirada de capital no se contrarrestra mucho con emisión monetaria porque eso suele habilitar a más gente a salir de la moneda, empeorando la fuga de capitales. Los activos que eran vistos como tesoros fabulosos ahora se ven como basuro, pasan de sobrecomprados a sobrevendidos y el precio de desploma.
+* La tasa de interés nominal sube (típicamente en 20 puntos porcentuales) y la curva de rendimiento se invierte
+* La emisión es limitada (1-2% del PBI, en promedio)
+* Los precios de las acciones en moneda local caen (*en promedio en un 50%*). Tienen un desempeño aún peor en moneda extranjera, ya que la depreciación cambiaria exacerba su venta.
+
+![Imgur](https://imgur.com/ea1dcV9.jpg)
+
+Uno de los desequilibrios más importantes en activos/pasivos es la deuda nominada en moneda extranjera, ya que los deudores en dicha moneda ven aumentadas sus cargas de deuda (en moneda local) por la depreciación.
+* Los servios de deuda suben (en un promedio en más del 5% del PBI) además porque el ingreso cae.
+* Las cargas de deuda en moneda extranjera sube (la relación deuda/PBI sube en promedio un 20% desde la caída de ingresos y la moneda)
+![Imgur](https://imgur.com/lGX4YYp.jpg)
+
+La depreciación también empuja a la suba a la inflación ya que las importaciones se vuelven más caras.
+* La inflación aumenta (usualmente un 15% con un pico de 30%)
+* La inflación se mantiene alta por un tiempo, en promedio dos años después del tope.
+
+![Imgur](https://imgur.com/fzLzDGP.jpg)
+
+Es en este momento donde el país "toca fondo", el reverso de la burbuja ya que todos los inversores están saliendo agresivamente. Este momento del desapalancamiento inflacionario es tan severo y doloroso en que produce un cambio radical en el sistema de precios y las políticas.
+
+Porque la moneda se volvió muy barata el gasto en importaciones se recorta sustancialmente para sanear la balanza de pagos. Esto (más, a veces, alguna ayuda internacional del FMI, BPI, etc) genera ajustes necesarios para la reversión. Las características de esta fase son:
+* El nivel de actividad económica (brecha del PBI) cae muchísimo (en promedio un 8%)
+* Crece el desempleo
+* El piso de la actividad viene después de un año.
+
+![Imgur](https://imgur.com/HS5r3xG.jpg)
+
+![Imgur](https://imgur.com/u5d9OUU.jpg)
