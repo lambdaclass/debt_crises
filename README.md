@@ -390,3 +390,6 @@ Pero las devaluaciones son una espada de doble filo: como los PM las manejen imp
 Cuando no hay más capital disponible se fuerza la detención del gasto, incluso impacta a quienes no tomaron prestado de afuera. Como el gasto de una eprsona es el ingreso de otra, esto produce un efecto dominó en toda la economía y causa desempleo y aún menos gasto.  Los prestamistas, especialmente bancos domésticos, tienen problemas y los extranjeros tienen aún menos voluntad de prestar y proveer capital.
 * Típicamente la afluencia de capital se cae rápidamente (más del 5% del PBI en menos de 12 meses)
 * La salida de capitales continúa (a un ritmo de un -3/-5% del PBI)
+
+![Imgur](https://imgur.com/hNtv9dC.jpg)
+![Imgur](https://imgur.com/9w8ZdzE.jpg)
