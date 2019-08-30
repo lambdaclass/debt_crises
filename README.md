@@ -428,3 +428,33 @@ Porque la moneda se volvió muy barata el gasto en importaciones se recorta sust
 ![Imgur](https://imgur.com/HS5r3xG.jpg)
 
 ![Imgur](https://imgur.com/u5d9OUU.jpg)
+
+### 5 Normalización
+La reversión y el eventual retorno a la normalidad viene cuando hay un balance entre la oferta y demanta de dinero relativa a otras monedas, es parcialmente hecho por un ajuste del comercio pero está más determinado por los flujos de capital. Ellos vuelven recién cuando el Banco central logra hacer deseable la tenencia moneda y cuando el gasto y las importaciones caen lo suficiente para ajustar la balanza de pagos.
+
+Para que los inversores vuelvan a tener muchos activos en moneda local es necesario tener una expectativa de retorno positiva que se logra teniendo una tasa de interés real relativamente baja (que es lo necesitan las condiciones débiles de la economía doméstica). Y para eso es necesario depreciar la moneda de manera brusca y rápida.
+
+Lo que determina si el retorno total de la moneda será negativo o positivo son los basamentos de la balanza de pagos y la voluntad del Banco central de controlar la emisión monetaria y las devaluaciones. Hacerlo mucho puede llevarte a la ruina. Según el gráfico que Dalio anexa, el tener moneda local para extranjeros comienza negativo pero al año se recupera.
+
+![Imgur](https://imgur.com/7LeOZ6f.jpg)
+
+Aún si el país no llegó a su límite de deuda algunas entidades y los PM deben recapitalizar a las instituciones sistémicamente importantes y proveer liquidez para que administren malas deudas. De esta forma se evitan crisis de deuda que pueden ser contractivas y generar fugas de capitales adicionales, pero es necesario balancear cuidadosamente la naturaleza inflacionaria de esa emisión.
+Aquí es cuando un país toca fondo:
+* El colapso en las importaciones mejora muchísimo la cuenta corriente (en promedio el 8% del PBI).
+* La entrada de capitales deja de declinar y se estabiliza.
+* Disminuye la fuga de capitales.
+* Frecuentemente el país recurre al FMI u otra entidad internacional para respaldo, especialmente cuando las reservas son limitadas.
+* Las tasas de interés de corto plazo empiezan a caer después de un año pero las de largo plazo siguen altas.
+* Al bajar las tasas de interés el precio futuro de la moneda se acerca al punto.
+* Al estabilizarse la moneda, la inflación baja. Usualmente toma dos años después del pico de inflación para llegar a niveles pre-crisis.
+
+El declive considerable y doloroso en la condiciones locales también ayuda a cerrar la brecha de balanza de pagos bajando gastos e importaciones. Las exportaciones al comienzo no juegan un rol importante y tienden a contraerse en la peor parte de la crisis, rebotan en los años subsiguientes.
+
+![Imgur](https://imgur.com/HvrNKyp.jpg)
+
+![Imgur](https://imgur.com/fPMNo2E.jpg)
+
+TRADUCIR ESPAÑOL CUADRO
+
+
+Suele llevar un par de años hasta que el país se recupere. Los inversores que "se quemaron" en el ciclo anterior son reacios a volver, entonces lleva tiempo que vuelva la afluencia positiva de capital. Pero el precio de los bienes y el trabajo domésticos cayó como su moneda, entonces vuelve a ser atractivo para inversores externos y vuelve el capital. El puntapié inicial del crecimiento lo brindan un aumento de exportaciones y la inversión extranjera directa. Con instituciones financieras
