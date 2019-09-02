@@ -457,4 +457,7 @@ El declive considerable y doloroso en la condiciones locales también ayuda a ce
 TRADUCIR ESPAÑOL CUADRO
 
 
-Suele llevar un par de años hasta que el país se recupere. Los inversores que "se quemaron" en el ciclo anterior son reacios a volver, entonces lleva tiempo que vuelva la afluencia positiva de capital. Pero el precio de los bienes y el trabajo domésticos cayó como su moneda, entonces vuelve a ser atractivo para inversores externos y vuelve el capital. El puntapié inicial del crecimiento lo brindan un aumento de exportaciones y la inversión extranjera directa. Con instituciones financieras
+Suele llevar un par de años hasta que el país se recupere. Los inversores que "se quemaron" en el ciclo anterior son reacios a volver, entonces lleva tiempo que vuelva la afluencia positiva de capital. Pero el precio de los bienes y el trabajo domésticos cayó como su moneda, por lo tanto vuelve a ser atractivo para inversores externos y vuelve el capital. El puntapié inicial del crecimiento lo brindan un aumento de exportaciones y la inversión extranjera directa. las instituciones financieras neurálgicas recapitalizadas y protegidas por los PM vuelven a ser el canal de financiamiento local que apoyan la recuperación. El país vuelve a la parte temprana del ciclo y comienza uno nuevo, ahora virtuoso, donde las oportunidades de inversiones productivas atraen al capital y éste conduce al aumento del crecimiento y el valor de los activos, que vuelve a atraer aún más capital.
+* Se recuperan los ingresos y el gasto (usualmente después de uno o dos años)
+* El nivel de actividad vuelve al promedio recién después de unos años (típicamente 3) luego del piso.
+* El tipo de cambio real está subvaluado (típicamente 
