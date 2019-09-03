@@ -467,4 +467,16 @@ Suele llevar un par de años hasta que el país se recupere. Los inversores que 
 ## La espiral de una depresión inflacionaria transitoria a una hiperinflación
 
 Las hiperinflaciones consisten en un nivel extremo de inflación (los precios de bienes y servicios se duplican o más todos los años o peor) junto con pérdidas extremas de riqueza y privaciones económicas severas. Cómo son casos más comunes que lo que se permite pensar es que vale la pena deterse en cómo depresiones inflacionarias espiralizan a hiperinflaciones.
-**La característica más importante de los casos que espiralizan hacia hiperinflaciones es que los PM no cierran el desbalance entre ingresos externos, gasto externo y servicio de deuda. Y siguen financiando el gasto externo con muchísima emisión monetaria durante períodos sostenidos de tiempo.**
+**La característica más importante de los casos que espiralizan hacia hiperinflaciones es que los PM no cierran el desbalance entre ingresos externos, gasto externo y servicio de deuda. Y siguen financiando el gasto externo con muchísima emisión monetaria durante períodos sostenidos de tiempo.** Dejar de emitir dinero durante una crisis no es simple, hacerlo cuando el capital está saliendo puede provocar una estrechez de liquidez y a veces una contracción económica profunda. En una espiral inflacionaria emitir puede parecer como una opción prudente pero continuar haciéndolo una y otra vez alimenta esa dinámica.
+
+### Cómo se desarrolla la espiral
+
+Mientras la moneda se deprecia y la emisión se usa más y más, la gente cambia su comportamiento y se impone una psicología inflacionaria. La depreciación conlleva más fuga de capitales, lo que causa un círculo vicioso entre devaluación, inflación y emmisión monetaria.
+**Con cada tanda de emisión, más del nuevo dinero es transferido hacia bienes raíces o activos extranjeros en vez de gastarse en bienes y servicios que emoujen la actividad económica.** Desde que los inversores que compraron bienes raíces o extranjeros les fue mejor que a quienes ahorraron e invirtieron en el país, quienes tienen moneda local dejan de invertir en activos productivos por reales (como el oro) y divisas. Esto es para protegerse de la inflación y el deterioro en su riqueza real.
+
+![Imgur](https://imgur.com/FSxRbb7.jpg)
+
+Cuando las devaluaciones constantes llevan a una inflación persistente esto puede volverse autorreforzante ya que nutre una psicología inflacionaria y cambia la conducuta de los inversores. Un factor clave es cuando la inflación presiona a los salarios y produce una **espiral de costo salarial.** Los trabajadores demandan aumentos salariales para recomponer su poder de compra y los productores suben los precios para compensar. Entonces tenemos un círculo vicioso: La moneda de deprecia, suben precios internos, aumenta la cantidad de dinero entonces cae más el valor de la moneda, suben los precios otra vez, etcétera. 
+
+Mientras la inflación empeora, los depositantes quieren tener su dinero en corto plazo entonces reducen el tiempo de sus préstamos a los bancos. Se mueven hacia cuentas corrients de corto plazo más que a ahorros de largo plazo. Los inversores acortan la duración de sus préstamos o dejan de hacerlo por los riegos de un default o que les paguen con dinero sin valor. 
+Como la inflación y la emoisión bajan la tasa de interés real empeora la retirada de capital y el préstamo rápido causa iliquidez en el sistema financiero. Los bancos ven práctimente imposible atender a la demanda de efectivo. 
