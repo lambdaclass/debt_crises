@@ -464,3 +464,7 @@ Suele llevar un par de años hasta que el país se recupere. Los inversores que 
 * Se recuperan un poco las exportaciones (entre el 1 y 2%  del PBI)
 * La afluencia de capital empieza a retornar unos años después (en promedio de 4 a 5). Las acciones tardan el mismo tiempo en recuperarse en término de moneda extranjera.
 
+## La espiral de una depresión inflacionaria transitoria a una hiperinflación
+
+Las hiperinflaciones consisten en un nivel extremo de inflación (los precios de bienes y servicios se duplican o más todos los años o peor) junto con pérdidas extremas de riqueza y privaciones económicas severas. Cómo son casos más comunes que lo que se permite pensar es que vale la pena deterse en cómo depresiones inflacionarias espiralizan a hiperinflaciones.
+**La característica más importante de los casos que espiralizan hacia hiperinflaciones es que los PM no cierran el desbalance entre ingresos externos, gasto externo y servicio de deuda. Y siguen financiando el gasto externo con muchísima emisión monetaria durante períodos sostenidos de tiempo.**
