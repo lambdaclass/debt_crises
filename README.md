@@ -506,4 +506,14 @@ Cada bando puede arrastrar al otro al segundo tipo pero para la cooperación es 
 En térmicos de política económica, durante un período de guerra, lo más importante es mantener el acceso a los recursos financieros y no financieros que son necesarios para mantener un buen esfuerzo de guerra. El país en guerra debe tener acceso a préstamos y/o tener grandes reservas en divisas. Este posibilidad está determinada por la solvencia del país y el desarrollo de su mercado de capitales.
 Luego de la guerra, durante el período de devolución, las consecuencias en el mercado de **las deudas y el resultado de la guerra serán enormes. Lo peor que un país puede hacer es endeudarse muchísimo y perder una guerra porque no hay nada más devastador. POR SOBRE TODAS LAS COSAS, NO HAGA ESO. Miren lo que significó para Alemania la Primera Guerra Mundial en los años 20 y también para Alemania y Japón la Segunda Guerra Mundial en el último lustro de los 40 y los 50.**
 
-Los siguentes gráficos ilustran los típicos cambios en la economía, dónde dirigen sus economías hacia la producción de guerra, piden prestado muchísimo diner para financiar enormes déficits fiscales y mueven mucho de su fuerza laboral al frente de batalla y la produción militar. Este
+Los siguentes gráficos ilustran los típicos cambios en la economía, dónde dirigen sus economías hacia la producción de guerra, piden prestado muchísimo diner para financiar enormes déficits fiscales y mueven mucho de su fuerza laboral al frente de batalla y la produción militar.
+
+![Imgur](https://imgur.com/k8zbsqj.jpg)
+
+![Imgur](https://imgur.com/rCWrBcD.jpg)
+
+Luego del fin de una gran guerra todos los beligerantes (vencedores y vencidos) están cargados de deuda y necesitan transicionar desde una economía de guerra a una normal. La contracción de gastos militares causa una recesión posguerra, mientras las fábrica son reconvertidas otra vez y mucha gente que fue empleada en el esfuerzo de guerra necesita encontrar trabajos nuevos. Sin embargo siempre es mucho peor para los vencidos, atraviesan depresiones más profundas, recurren más a la emisión monetaria, caen significativamente sus ahorros/reservas y tienen tasas de inflación mucho más altas (a veces hasta atraviesan hiperinflaciones).
+
+![Imgur](https://imgur.com/kP9wgp2.jpg)
+
+![Imgur](https://imgur.com/or6ezLz.jpg)
