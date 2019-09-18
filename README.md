@@ -283,23 +283,23 @@ Ya teniendo el modelo de las depresiones deflacionarias el autor nos invita a le
 ## Depresiones inflacionarias y crisis monetarias
 
 Ahora miraremos las crisis de deuda inflacionarias arquetípicas, que Dalio ha creado en base a los 27 peores ciclos inflacionarios. Cómo recordatorio Dalio los resalta puntos neurálgicos de su marco conceptual/teórico:
-* La moneda y la deuda tienen dos propósitos: Ser medios de cambio y de aterosamiento
-* La deuda de una persona es el activo de uno y el pasivo de otra
+* La moneda y la deuda tienen dos propósitos: Ser medios de cambio y de aterosamiento.
+* La deuda de una persona es el activo de uno y el pasivo de otra.
 * Tenedores de activos de deudas esperan convertirlos en dinero y luego en bienes y servicios, entonces son conscientes de la dimensión de sus pérdidas de poder de compra (inflación) relativa a la compensación (tasa de interés) por seguir teniéndolo.
 * Los Bancos centrales solo producen el tipo de dinero y crédito que ellos controlan.
 * A través de un vínculo simbiótico, en el tiempo los prestatarios y prestamistas privados y los Bancos centrales crean más y más montones de activos y pasivos de deuda.
 * Cuánto más grande la pila, más grande es el desafío de los bancos centrales por balancear las presiones hacia una depresión deflacionaria y hacia una inflacionaria.
-* Los PM pueden usualmente balancear estas fuerzas opuestas en las crisis de deuda porue tienen mucho poder para redistribuir la carga.
+* Los diseñadores de políticas pueden usualmente balancear estas fuerzas opuestas en las crisis de deuda porque tienen mucho poder para redistribuir la carga.
 * Típicamente los bancos centrales alivian las crisis de deuda emitiendo muchísimo dinero en lo cual está expresado la deuda, lo cual estimula el gasto en activos de inversión y la economía, y abarata el valor de la moneda (si todo el resto está igual).
 * Si una moneda cae en relación a otra en un grado que es mayor a la tasa de interés de la moneda, el tenedor de deuda de la moneda debilitada perderá dinero. Si los inversores esperan que la debilidad continúe sin ser compensada con tasa de interés más altas, se desarrolla una peligrosa dinámica monetaria.
 
-La última dinámica, la dinámica de la moneda, es lo que produce las depresiones inflacionarias. Los tenedores de deuda nominada en la moneda que brinda pobres retornos están motivados a vender y tener sus activos en otra moneda o reserva de valor como el oro. Cuando hay una crisi de deuda y debilidad económica es imposible que el BC de un país suba las tasas de interés lo suficiente para compensar la debilidad de la moneda, entonces el dinero deja ese país y esa moneda por países más seguros. Cuando se va tanto dinero que seca la plaza de préstamos, el BC se enfrenta a la disyuntiva de constreñir el mercado crediticio o emitir, que produce muchísimo de ello. Cuando el dinero está saliendo de una moneda, la tasa de interés real necesita subir menos si el tipo de cambio real cae más (y viceversa).
+La última dinámica, la dinámica de la moneda, es lo que produce las depresiones inflacionarias. Los tenedores de deuda nominada en la moneda que brinda pobres retornos están motivados a vender y tener sus activos en otra moneda o reserva de valor como el oro. Cuando hay una crisis de deuda y debilidad económica es imposible que el Banco Central de un país suba las tasas de interés lo suficiente para compensar la debilidad de la moneda, entonces el dinero deja ese país y esa moneda por países más seguros. Cuando se va tanto dinero que seca la plaza de préstamos, el BC se enfrenta a la disyuntiva de constreñir el mercado crediticio o emitir, que produce muchísimo de ello. Cuando el dinero está saliendo de una moneda, la tasa de interés real necesita subir menos si el tipo de cambio real cae más (y viceversa).
 Las salidas de capital tienden a ocurrir cuando el contexto es inhóspito (ya sea por deuda, económico y/o problemas políticos). Para empeorar las cosas, aquellos que tienen sus actividades en la moneda débil y tomaron préstamos en la moneda fuerte ven sus costos de deuda dispararse. Es por esto **los países con los peores problemas de deuda, mucha de ella nominada en moneda extranjera, y una alta dependencia en el capital extranjero tienen una debilidad monetaria significativa. Esta debilidad es lo que causa inflación cuando hay una depresión.**
-Normalmente esto sigue su curso cuando la moneda y los precios de la deuda caen lo suficiente para hacerlos muy baratos. Generalmente el sacudón termina cuando a) las deudas son defaulteadas y/o se crea suficiente dinero para aliviar el sacudón; b) los requerimientos de servicios de deuda son reducidos de alguna otra manera; c) la moneda se deprecia más que la inflación aumenta, entonces los activos nacionales y lo que exporta se vuelve muy competitivo entonces mejora su balanza de pagos.
+Normalmente esto sigue su curso cuando la moneda y los precios de la deuda caen lo suficiente para hacerlos muy baratos. Generalmente el sacudón termina cuando a) las deudas son defaulteadas y/o se crea suficiente dinero para aliviar el sacudón; b) los requerimientos de servicios de deuda son reducidos de alguna otra manera; c) la moneda se deprecia más que la inflación aumenta, entonces los activos nacionales y lo que exporta se vuelve muy competitivo, mejorando así su balanza de pagos.
 #### ¿Cuáles países/monedas son más vulnerables a desapalancamientos inflacionarios severos o hiperinflaciones?
-Si bien puedne pasar en cualquier país, lo más probable es que se presenten en países que:
+Si bien pueden pasar en cualquier país, lo más probable es que se presenten en países que:
 * No tienen una moneda de reserva (entonces carecen de un soporte global para mantener a su moneda/deuda como reserva de valor)
-* Tienen pocas reservas en moneda extranjera (el colchól de protección contra salidas de capitales es pequeño)
+* Tienen pocas reservas en moneda extranjera (el colchón de protección contra salidas de capitales es pequeño)
 * Presentan un gran e incremental déficit fiscal y de cuenta corriente (causando la necesidad de pedir prestado o emitir dinero para financiar los déficits)
 * Tienen una tasa de interés real negativa, por lo tanto compensaciones inadecuadas a prestamistas para que mantengan la deuda/moneda
 * Presentan una historia de alta inflación y retornos totales negativos en esa moneda (aumentando la falta de confianza en el valor de la moneda/deuda)
@@ -330,13 +330,13 @@ Todo tipo de entidades tienen una base fuerte en la moneda local porque tienen u
 * La afluencia de capital extranjero financia un boom de consumo
 * Importaciones crecen más rápido que las exportaciones, y empeora la cuenta corriente
 
-Mientras tanto, invertir en el país crea un fuerte crecimiento y aumento de ingresos, esto hace a los prestatarios más solvententes. Los altos precios de los bienes exportables aumentan el ingreso nacional e incentivan las inversiones.
-Enesta etapa se esfuma el principal atractivo del país, su competitividad, porque se produce una apreciación de la moneda. Entonces su crecimiento se financia cada vez más con deuda que con aumentos de productividad, y el país se vuelve altamente dependiente del financiamiento externo.
+Mientras tanto, invertir en el país crea un fuerte crecimiento y aumento de ingresos, esto hace a los prestatarios más solvententes. Los altos precios de los bienes exportables aumenta el ingreso nacional e incentivan las inversiones.
+En esta etapa se esfuma el principal atractivo del país, su competitividad, porque se produce una apreciación de la moneda. Entonces su crecimiento se financia cada vez más con deuda que con aumentos de productividad, y el país se vuelve altamente dependiente del financiamiento externo.
 * Las cargas de la deuda crecen rápido. La relación deuda - PBI sube a una tasa anual del 10% en tres años.
 * Aumenta la deuda en moneda extranjera (en promedio un 35% de la deuda total y el 45% del PBI)
 * Típicamente el nivel de actividad económica (brecha del PBI) es muy fuerte y el crecimiento está por encima del potencial, que lleva a ajustar la capacidad (cómo se refleja en una brecha del PBI de aproximdamente el 4%)
 
-En la burbuja se amplía la brecha entre el ingreso nacional y sus gastos, necesita una afluencia de capitales cada vez mayor para continuar creciendo, que siguen llegando por la expectativa en un crecimiento alto de forma sostenida. Aquí el país es extremadamente fragil y cualquier evento puede disparar una reversión del ciclo.
+En la burbuja se amplía la brecha entre el ingreso nacional y sus gastos, se necesita una afluencia de capitales cada vez mayor para continuar creciendo, que siguen llegando por la expectativa en un crecimiento alto de forma sostenida. Aquí el país es extremadamente fragil y cualquier evento puede disparar una reversión del ciclo.
 
 ¿Que pasa con el peso de la deuda en relación al PBI, el deterioro de la cuenta corriente, la brehcha del PBI y el tipo de cambio real?
 
@@ -370,14 +370,14 @@ El debilitamiento en los flujos de capitales es el inicio de una crisis de balan
 
 ![Imgur](https://imgur.com/J0uLkzT.jpg)
 
-En este momento la preocupación aumenta entre quienes tienen activos/moneda local y los PM que intentan defender la moneda. Los que poseen activos/moneda local se preocupan ante una posible restricción en su capacidad de sacar el dinero fuera del país, que los lleva a hacerlo hasta que puedan, empeorando el problema de la balanza de pagos. 
+En este momento la preocupación aumenta entre quienes tienen activos/moneda local y los formuladores de políticas que intentan defender la moneda. Los que poseen activos/moneda local se preocupan ante una posible restricción en su capacidad de sacar el dinero fuera del país, que los lleva a hacerlo hasta que puedan, empeorando el problema de la balanza de pagos. 
 
 Entonces los bancos centrales intentan defender sus  monedas por dos vías: a) cubriendo los déficits de la balnza de pagos gastando reservas y/o b) subiendo las tasas. Esto raramente sirve porque genera oportunidades para los vendedores mientras que no mueve la moneda o la tasa de interés a niveles que se necesitan para condiciones económicas sustentables.
 Existe una relación neurálgica entre a) la difederencia de la tasa de interés y b) la relación del actual valor de la moneda y el futuro. El nivel de declinación en el precio de la moneda que se espera depende de cuán debajo esté el precio futuro del valor actual. Una pequeña depreciación esperada de la moneda (5-10%) equivale a una suba de la tasa de interés (5-10%), entonces este camino es intolerable.
 
 Las devaluaciones graduales programadas presionan sobre la tasa de interés porque el mercado espera futuras depreciaciones (en un contexto la economía ya es débil).
 
-Ya en este punto del ciclo los controles de capitales son un nivelador que rara vez funcionan y que pueden parecer atractivos para los PM. Estos usualmente fallan porque a) los inversores suelen hallar la manera de saltarlos; b) porque el atrapar gente lleva a que quieran escaparse. No poder sacar el dinero de un país provoca lo mismo que la imposibilidad de sacarlo de un banco: miedo que puede llevar a una corrida.
+Ya en este punto del ciclo los controles de capitales son un nivelador que rara vez funcionan y que pueden parecer atractivos para los diseñadores de políticas. Estos usualmente fallan porque a) los inversores suelen hallar la manera de saltarlos; b) porque el atrapar gente lleva a que quieran escaparse. No poder sacar el dinero de un país provoca lo mismo que la imposibilidad de sacarlo de un banco: miedo que puede llevar a una corrida.
 
 Usualmente la etapa de defensa de la moneda es breve (6 meses), con una caída de reservas del 10% o 20% hasta que la defensa se abandona.
 
@@ -386,23 +386,27 @@ Usualmente la etapa de defensa de la moneda es breve (6 meses), con una caída d
 ![Imgur](https://imgur.com/E97AulT.jpg)
 
 ### 4 Depresión (a menudo cuando se deja ir a la moneda)
-Una depreciación de la moneda permite a un país ofrecer recortes de precios al resto del mundo (ayudando a traer más negocios) sin producir deflación doméstica. Entonces, después de defender la moneda de maneras insostenibles (gastando reservas, políticas monetarias contractivas, aseguramente vehementemente que no devaluarán, controles de cambios) los PM dejan de luchar y la dejan ir. Lo que vemos a continuación de eso es lo siguiente:
+Una depreciación de la moneda permite a un país ofrecer recortes de precios al resto del mundo (ayudando a traer más negocios) sin producir deflación doméstica. Entonces, después de defender la moneda de maneras insostenibles (gastando reservas, políticas monetarias contractivas, aseguramente vehementemente que no devaluarán, controles de cambios) los formuladores de políticas dejan de luchar y la dejan ir. Lo que vemos a continuación de eso es lo siguiente:
 * La moneda tiene una depreciación inicial fuerte, en un promedio de un 30% en términos reales.
 * La depreciación no es contrarrestada por tasas de interés ajustadas, entonces las pérdidas por tener esa moneda son significantes (en promedio un 30% en el primer año).
-* Como el declive es muy severo los PM tratan de suavizarlo, llevándolos a continuar gastando reservas (en promedio un 10%)
+* Como el declive es muy severo los diseñadores de políticas tratan de suavizarlo, llevándolos a continuar gastando reservas (en promedio un 10%)
+
 ![Imgur](https://imgur.com/1EAmxYm.jpg)
+
 ![Imgur](https://imgur.com/2THfNRE.jpg)
+
 ![Imgur](https://imgur.com/eaEZ269.jpg)
 
 Los Bancos centrales no deben defender sus monedas al punto de dejar las reservas muy bajas o su tasa de interés muy alta en relación a lo que es bueno para una economía porque los peligros de estas condiciones son más fuertes que el de una devaluación. De hecho las devaluaciones son estimulantes para la economía y los mercados, lo cual ayuda en contracciones económicas. Los valores de los activos suben en esa moneda debilitada, estimulan las exportaciones y ayudan a los ajustes de la balanza de pagos  debido a que realinean el gasto con el ingreso. También caen las importaciones al encarecerlas, eso favorece a los productores locales y crea mejores márgenes de ganancia para los bienes exportables.
 
-Pero las devaluaciones son una espada de doble filo: como los PM las manejen impacta en cuanto dolor debe soportar una economía durante el ajuste. Ella impacta fuertemente en el aumento de la inflación y cómo se desarrolla la depresión inflacionaria. Una devaluación gradual y persistente genera la expectativa en el mercado de su continuación así que fomenta la salida de capital y la especulación, ampliando la brecha de la balanza de pagos. La inflación se vuelve más persistente y alimenta una mentalidad inflacionaria. Por esto para Dalio es mejor una gran y excepcional devaluación que no genere expectativas de futuras depreciaciones y que no sea esperada por el mercado, entonces los PM no tienen que gastar reservas o subir la tasa de interés para defender la moneda. Cuando sucede esto muchas personas tienen desequilibrios entre activos y pasivos, que tomaron cuando era rentable, y vuelven no rentables.
+Pero las devaluaciones son una espada de doble filo: como los formuladores de políticas las manejen impacta en cuanto dolor debe soportar una economía durante el ajuste. Ella impacta fuertemente en el aumento de la inflación y cómo se desarrolla la depresión inflacionaria. Una devaluación gradual y persistente genera la expectativa en el mercado de su continuación así que fomenta la salida de capital y la especulación, ampliando la brecha de la balanza de pagos. La inflación se vuelve más persistente y alimenta una mentalidad inflacionaria. Por esto para Dalio es mejor una gran y excepcional devaluación que no genere expectativas de futuras depreciaciones y que no sea esperada por el mercado, entonces los diseñadores de políticas no tienen que gastar reservas o subir la tasa de interés para defender la moneda. Cuando sucede esto muchas personas tienen desequilibrios entre activos y pasivos, que tomaron cuando era rentable, y vuelven no rentables.
 
-Cuando no hay más capital disponible se fuerza la detención del gasto, incluso impacta a quienes no tomaron prestado de afuera. Como el gasto de una eprsona es el ingreso de otra, esto produce un efecto dominó en toda la economía y causa desempleo y aún menos gasto.  Los prestamistas, especialmente bancos domésticos, tienen problemas y los extranjeros tienen aún menos voluntad de prestar y proveer capital.
+Cuando no hay más capital disponible se fuerza la detención del gasto, incluso impacta a quienes no tomaron prestado de afuera. Como el gasto de una persona es el ingreso de otra esto produce un efecto dominó en toda la economía, causando desempleo y aún menos gasto.  Los prestamistas, especialmente bancos domésticos, tienen problemas y los extranjeros tienen aún menos voluntad de prestar y proveer capital.
 * Típicamente la afluencia de capital se cae rápidamente (más del 5% del PBI en menos de 12 meses)
 * La salida de capitales continúa (a un ritmo de un -3/-5% del PBI)
 
 ![Imgur](https://imgur.com/hNtv9dC.jpg)
+
 ![Imgur](https://imgur.com/9w8ZdzE.jpg)
 
 Usualmente la retirada de capital no se contrarrestra mucho con emisión monetaria porque eso suele habilitar a más gente a salir de la moneda, empeorando la fuga de capitales. Los activos que eran vistos como tesoros fabulosos ahora se ven como basuro, pasan de sobrecomprados a sobrevendidos y el precio de desploma.
@@ -413,8 +417,9 @@ Usualmente la retirada de capital no se contrarrestra mucho con emisión monetar
 ![Imgur](https://imgur.com/ea1dcV9.jpg)
 
 Uno de los desequilibrios más importantes en activos/pasivos es la deuda nominada en moneda extranjera, ya que los deudores en dicha moneda ven aumentadas sus cargas de deuda (en moneda local) por la depreciación.
-* Los servios de deuda suben (en un promedio en más del 5% del PBI) además porque el ingreso cae.
+* Los servicios de deuda suben (en un promedio en más del 5% del PBI) además porque el ingreso cae.
 * Las cargas de deuda en moneda extranjera sube (la relación deuda/PBI sube en promedio un 20% desde la caída de ingresos y la moneda)
+
 ![Imgur](https://imgur.com/lGX4YYp.jpg)
 
 La depreciación también empuja a la suba a la inflación ya que las importaciones se vuelven más caras.
@@ -443,7 +448,7 @@ Lo que determina si el retorno total de la moneda será negativo o positivo son 
 
 ![Imgur](https://imgur.com/7LeOZ6f.jpg)
 
-Aún si el país no llegó a su límite de deuda algunas entidades y los PM deben recapitalizar a las instituciones sistémicamente importantes y proveer liquidez para que administren malas deudas. De esta forma se evitan crisis de deuda que pueden ser contractivas y generar fugas de capitales adicionales, pero es necesario balancear cuidadosamente la naturaleza inflacionaria de esa emisión.
+Aún si el país no llegó a su límite de deuda algunas entidades y los formuladores de políticas deben recapitalizar a las instituciones sistémicamente importantes y proveer liquidez para que administren malas deudas. De esta forma se evitan crisis de deuda que pueden ser contractivas y generar fugas de capitales adicionales, pero es necesario balancear cuidadosamente la naturaleza inflacionaria de esa emisión.
 Aquí es cuando un país toca fondo:
 * El colapso en las importaciones mejora muchísimo la cuenta corriente (en promedio el 8% del PBI).
 * La entrada de capitales deja de declinar y se estabiliza.
@@ -459,10 +464,10 @@ El declive considerable y doloroso en la condiciones locales también ayuda a ce
 
 ![Imgur](https://imgur.com/fPMNo2E.jpg)
 
-TRADUCIR ESPAÑOL CUADRO
+![Imgur](https://i.imgur.com/JtUKuck.jpg)
 
 
-Suele llevar un par de años hasta que el país se recupere. Los inversores que "se quemaron" en el ciclo anterior son reacios a volver, entonces lleva tiempo que vuelva la afluencia positiva de capital. Pero el precio de los bienes y el trabajo domésticos cayó como su moneda, por lo tanto vuelve a ser atractivo para inversores externos y vuelve el capital. El puntapié inicial del crecimiento lo brindan un aumento de exportaciones y la inversión extranjera directa. las instituciones financieras neurálgicas recapitalizadas y protegidas por los PM vuelven a ser el canal de financiamiento local que apoyan la recuperación. El país vuelve a la parte temprana del ciclo y comienza uno nuevo, ahora virtuoso, donde las oportunidades de inversiones productivas atraen al capital y éste conduce al aumento del crecimiento y el valor de los activos, que vuelve a atraer aún más capital.
+Suele llevar un par de años hasta que el país se recupere. Los inversores que "se quemaron" en el ciclo anterior son reacios a volver, entonces lleva tiempo que vuelva la afluencia positiva de capital. Pero el precio de los bienes y el trabajo domésticos cayó como su moneda, por lo tanto vuelve a ser atractivo para inversores externos y vuelve el capital. El puntapié inicial del crecimiento lo brindan un aumento de exportaciones y la inversión extranjera directa. Las instituciones financieras neurálgicas recapitalizadas y protegidas por los diseñadores de políticas vuelven a ser el canal de financiamiento local que apoyan la recuperación. El país vuelve a la parte temprana del ciclo y comienza uno nuevo, ahora virtuoso, donde las oportunidades de inversiones productivas atraen al capital y éste conduce al aumento del crecimiento y el valor de los activos, que vuelve a atraer aún más capital.
 * Se recuperan los ingresos y el gasto (usualmente después de uno o dos años)
 * El nivel de actividad vuelve al promedio recién después de unos años (típicamente 3) luego del piso.
 * El tipo de cambio real está subvaluado (típicamente en un 10% en una base PPP) al comienzo de la estabilización y se mantiene barato
@@ -472,7 +477,7 @@ Suele llevar un par de años hasta que el país se recupere. Los inversores que 
 ## La espiral de una depresión inflacionaria transitoria a una hiperinflación
 
 Las hiperinflaciones consisten en un nivel extremo de inflación (los precios de bienes y servicios se duplican o más todos los años o peor) junto con pérdidas extremas de riqueza y privaciones económicas severas. Cómo son casos más comunes que lo que se permite pensar es que vale la pena deterse en cómo depresiones inflacionarias espiralizan a hiperinflaciones.
-**La característica más importante de los casos que espiralizan hacia hiperinflaciones es que los PM no cierran el desbalance entre ingresos externos, gasto externo y servicio de deuda. Y siguen financiando el gasto externo con muchísima emisión monetaria durante períodos sostenidos de tiempo.** Dejar de emitir dinero durante una crisis no es simple, hacerlo cuando el capital está saliendo puede provocar una estrechez de liquidez y a veces una contracción económica profunda. En una espiral inflacionaria emitir puede parecer como una opción prudente pero continuar haciéndolo una y otra vez alimenta esa dinámica.
+**La característica más importante de los casos que espiralizan hacia hiperinflaciones es que los formuladores de políticas no cierran el desbalance entre ingresos externos, gasto externo y servicio de deuda. Y siguen financiando el gasto externo con muchísima emisión monetaria durante períodos sostenidos de tiempo.** Dejar de emitir dinero durante una crisis no es simple, hacerlo cuando el capital está saliendo puede provocar una estrechez de liquidez y a veces una contracción económica profunda. En una espiral inflacionaria emitir puede parecer como una opción prudente pero continuar haciéndolo una y otra vez alimenta esa dinámica.
 
 ### Cómo se desarrolla la espiral
 
@@ -483,27 +488,27 @@ Mientras la moneda se deprecia y la emisión se usa más y más, la gente cambia
 
 Cuando las devaluaciones constantes llevan a una inflación persistente esto puede volverse autorreforzante ya que nutre una psicología inflacionaria y cambia la conducuta de los inversores. Un factor clave es cuando la inflación presiona a los salarios y produce una **espiral de costo salarial.** Los trabajadores demandan aumentos salariales para recomponer su poder de compra y los productores suben los precios para compensar. Entonces tenemos un círculo vicioso: La moneda de deprecia, suben precios internos, aumenta la cantidad de dinero entonces cae más el valor de la moneda, suben los precios otra vez, etcétera. 
 
-Mientras la inflación empeora, los depositantes quieren tener su dinero en corto plazo entonces reducen el tiempo de sus préstamos a los bancos. Se mueven hacia cuentas corrients de corto plazo más que a ahorros de largo plazo. Los inversores acortan la duración de sus préstamos o dejan de hacerlo por los riegos de un default o que les paguen con dinero sin valor. 
-Como la inflación y la emoisión bajan la tasa de interés real empeora la retirada de capital y el préstamo rápido causa iliquidez en el sistema financiero. Los bancos ven práctimente imposible atender a la demanda de efectivo. 
+Mientras la inflación empeora, los depositantes quieren tener su dinero en corto plazo entonces reducen el tiempo de sus préstamos a los bancos. Se mueven hacia cuentas corrientes de corto plazo más que a ahorros de largo plazo. Los inversores acortan la duración de sus préstamos o dejan de hacerlo por los riegos de un default o que les paguen con dinero sin valor. 
+Como la inflación y la emisión bajan la tasa de interés real empeora la retirada de capital y el préstamo rápido causa iliquidez en el sistema financiero. Los bancos ven práctimente imposible atender a la demanda de efectivo. 
 Frente al riesgo de iliquidez los bancos centrales emiten otra vez para apoyar a los bancos y a menudo prestan directamente a los negocios. Cuando la tasa de interés es insuficiente para compensar la futura depreciación de la moneda esta provisión de liquidez permite que los inversores sigan prestando e invirtiendo afuera y en protegerse de la inflación, lo que contribuye a la inflación y espiral devaluatoria.
 
 Cómo mucha de la deuda está nominada en moneda extranjera su carga aumenta cuando la cae la moneda local, lo que requiere recorte de gastos y de venta de activos. Mientras este efecto fue superado por la estimulación de la devaluación, se convierte en devastador cuando el efecto de desvanece y las cargas de deuda crecen. Esto significa que los inversores estranjeros quieren tasas de interés más altas en compesación al riesgo de default. Frente este aumento de cargas de deuda muchos gobiernos responden subiendo los impuestos a los ingresos y riqueza. Los adinerados, con sus patrimonio neto ya debilitado por el contexto, evaden mucho más y aumenta la fuga de capitales al exterior. Esto es típico en desapalancamientos.
 
 Cómo se debilita el crecimiento se produce una falta de préstamos extranjeros y se cierra una importante fuente de creación de crédito. Y mientras hay mucha creación de crédito y préstamos domésticos, éstos no conducen al crecimiento porque se gastan afuera en activos extranjeros. Y el gasto que ocurre localmente no contribuye al PBI (se compra oro, fábrica o máquinas que no se necesitan, solo para cuidar la riqueza).
 
-Estas fuerzas desembocan en un mecanismo que escala hasta que la gente pierde completamente la confianza en la moneda. Pierde su role como resguardo de valor. La larga lista de ceros hace imposible la unidad de cuenta. También deja de ser medio de intercambio porque la inestabilidad hace que los productores no quieran vender sus mercancías a cambio de dinero local entonces aceptan extranjero o trocan. Cuando la economía entra en una hiperinflación se contrae rápidamente porque las devaluaciones del a moneda que antes eran beneficiosas ahora solo generan caos.
+Estas fuerzas desembocan en un mecanismo que escala hasta que la gente pierde completamente la confianza en la moneda. Pierde su rol como resguardo de valor. La larga lista de ceros hace imposible la unidad de cuenta. También deja de ser medio de intercambio porque la inestabilidad hace que los productores no quieran vender sus mercancías a cambio de dinero local entonces aceptan extranjero o trocan. Cuando la economía entra en una hiperinflación se contrae rápidamente porque las devaluaciones del a moneda que antes eran beneficiosas ahora solo generan caos.
 
-La hiperinflación pulveriza la riqueza financiera ya que los activos financieros fallan en seguirle el ritmo a la depreciación dle am oenda y la inflación. También en ella se producen redistribuciones de la riqueza extremas. Este caos genera tensiones políticas y enfrentamientos. Los empleados públicos cómo las Fuerzas de Seguridad van a huelga porque no quieren trabajar por dinero sin valor. Desorden, crimen, saqueos y la violencia llega a su pico en esta fase. 
-La salida de estos procesos suele dars creando una moneda nueva con un respaldo muy fuerte mientras se elimina gradualmente la anterior.
+La hiperinflación pulveriza la riqueza financiera ya que los activos financieros fallan en seguirle el ritmo a la depreciación de la moneda y la inflación. También en ella se producen redistribuciones de la riqueza extremas. Este caos genera tensiones políticas y enfrentamientos. Los empleados públicos cómo las Fuerzas de Seguridad van a huelga porque no quieren trabajar por dinero sin valor. Desorden, crimen, saqueos y la violencia llega a su pico en esta fase. 
+La salida de estos procesos suele darse creando una moneda nueva con un respaldo muy fuerte mientras se elimina gradualmente la anterior.
 
 ## Economías de guerra
-Las economías de guerra son totalmente diferentes a las regualres en lo que respecta a la producción, consumo y cuentas de bienes, servicios y activos financieros. Dalio toca por arriba este tópico que requeriría mayor profundidad, pero considera necesario porque son importantes para entender las grandes crisis de deuda que fueron analizadas en nuestros períodos de prueba (y son importantes de entender si entramos en otro período de guerras).
-El ciclo económico/geopolítico de conflictos económicos que conducen a conflictos militares es obvio para cualquiara que estudia Historia, tanto dentro cómo entre países poderosos emergentes y países poderosos ya establecidos. La secuencia es la siguiente:
-**Cuando 1) dentro de países hay conflicto económico entre los ricos/captialistas/derecha política y los pobres/proletarios/izquierda política esto resulta en la llegada al poder de líderes populistas, autocráticos, nacionalistas y militaristas, mientras que al mismo tiempo, 2) están creciendo los conflictos entre países que son fuertes poderes económicos y militares. La relación entre economía y política se vuelve muy entrelazada y la posibilidad de conflictos disruptivos (guerras) se vuelve mucho más alta que lo normal.**
+Las economías de guerra son totalmente diferentes a las regulares en lo que respecta a la producción, consumo y cuentas de bienes, servicios y activos financieros. Dalio toca por arriba este tópico que requeriría mayor profundidad, pero considera necesario porque son importantes para entender las grandes crisis de deuda que fueron analizadas en nuestros períodos de prueba (y son importantes de entender si entramos en otro período de guerras).
+El ciclo económico/geopolítico de conflictos económicos que conducen a conflictos militares es obvio para cualquiera que estudia Historia, tanto dentro cómo entre países poderosos emergentes y países poderosos ya establecidos. La secuencia es la siguiente:
+**Cuando 1) dentro de países hay conflicto económico entre los ricos/capitalistas/derecha política y los pobres/proletarios/izquierda política esto resulta en la llegada al poder de líderes populistas, autocráticos, nacionalistas y militaristas, mientras que al mismo tiempo, 2) están creciendo los conflictos entre países que son fuertes poderes económicos y militares. La relación entre economía y política se vuelve muy entrelazada y la posibilidad de conflictos disruptivos (guerras) se vuelve mucho más alta que lo normal.**
 
 A menudo esta rivalidad económica dentro o entre países conduce a una lucha cuyo fin es establecer cuales entidades son las más poderosas y estos períodos son seguidos por una paz donde los vencedores ponen las reglas ya que nadie puede vencerlos.
 La Historia nos muestra que a través del tiempo hay dos tipo de relaciones, y depende de cual exista para lo que ocurra. Ellas son:
-* a) **Relaciones cooperativo-competitivas** donde las partes toman en consideración lo que es realmente importante para la otra e intentan darle a cambio lo que más quieren. En este tipo de relaciones donde ambas ganan hay arduas negociaciones que se hacen con respecto y consideración.
+* a) **Relaciones cooperativo-competitivas** donde las partes toman en consideración lo que es realmente importante para la otra e intentan darle a cambio lo que más quieren. En este tipo de relaciones donde ambas ganan hay arduas negociaciones que se hacen con respeto y consideración.
 * b) **Relaciones mutuamente amenazantes** donde las partes piensa como puedan dañar a la otra e intercambian actos dolorosos con el fin de forzar al otro a una posición de miedo donde cederán. En estipo de relaciones donde ambos pierden se interactúa más a través de la guerra que en negociaciones.
 
 Cada bando puede arrastrar al otro al segundo tipo pero para la cooperación es necesario que estén ambas partes en sintonía.
@@ -517,7 +522,7 @@ Los siguentes gráficos ilustran los típicos cambios en la economía, dónde di
 
 ![Imgur](https://imgur.com/rCWrBcD.jpg)
 
-Luego del fin de una gran guerra todos los beligerantes (vencedores y vencidos) están cargados de deuda y necesitan transicionar desde una economía de guerra a una normal. La contracción de gastos militares causa una recesión posguerra, mientras las fábrica son reconvertidas otra vez y mucha gente que fue empleada en el esfuerzo de guerra necesita encontrar trabajos nuevos. Sin embargo siempre es mucho peor para los vencidos, atraviesan depresiones más profundas, recurren más a la emisión monetaria, caen significativamente sus ahorros/reservas y tienen tasas de inflación mucho más altas (a veces hasta atraviesan hiperinflaciones).
+Luego del fin de una gran guerra todos los beligerantes (vencedores y vencidos) están cargados de deuda y necesitan transicionar desde una economía de guerra a una normal. La contracción de gastos militares causa una recesión posguerra, mientras las fábricas son reconvertidas otra vez y mucha gente que fue empleada en el esfuerzo de guerra necesita encontrar trabajos nuevos. Sin embargo siempre es mucho peor para los vencidos, atraviesan depresiones más profundas, recurren más a la emisión monetaria, caen significativamente sus ahorros/reservas y tienen tasas de inflación mucho más altas (a veces hasta atraviesan hiperinflaciones).
 
 ![Imgur](https://imgur.com/kP9wgp2.jpg)
 
